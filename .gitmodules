@@ -1,0 +1,3 @@
+[submodule "ggplot_mysoc_theme"]
+	path = ggplot_mysoc_theme
+	url = https://github.com/mysociety/ggplot_mysoc_theme
