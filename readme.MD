@@ -12,3 +12,8 @@ Public write-up at: [add url]
 2. Run `pair_tests.R` to regenerate t-test plot. 
 3. Run `regression_plot.R` to regenerate the regression plot. 
 4. Run `export_model.R` to regenerate the regression table. 
+
+## Licence
+
+Unless otherwise stated, datasets are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+Code and scripts are licenced under a MIT Licence. 
