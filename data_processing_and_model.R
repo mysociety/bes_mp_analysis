@@ -137,6 +137,68 @@ dat$bame[dat$profile_ethnicity == "Any other white background"] <- 0
 dat$bame[dat$profile_ethnicity == ""] <- NA
 dat$bame[dat$profile_ethnicity == "Prefer not to say"] <- NA
 
+dat$reduced_ethnicity <- dat$profile_ethnicity
+dat$reduced_ethnicity[dat$profile_ethnicity == "Indian"] <- "Indian/Pakistani/Bangladeshi" 
+dat$reduced_ethnicity[dat$profile_ethnicity == "Pakistani"] <- "Indian/Pakistani/Bangladeshi" 
+dat$reduced_ethnicity[dat$profile_ethnicity == "Bangladeshi"] <- "Indian/Pakistani/Bangladeshi" 
+dat$reduced_ethnicity[dat$profile_ethnicity == "White and Asian"] <- "Mixed background"
+dat$reduced_ethnicity[dat$profile_ethnicity == "White and Black African"] <- "Mixed background" 
+dat$reduced_ethnicity[dat$profile_ethnicity == "White and Black Caribbean"] <- "Mixed background" 
+dat$reduced_ethnicity[dat$profile_ethnicity == "Any other mixed background"] <- "Mixed background" 
+dat$reduced_ethnicity[dat$profile_ethnicity == "Chinese"] <- "Asian"
+dat$reduced_ethnicity[dat$profile_ethnicity == "Any other Asian background"] <- "Asian" 
+dat$reduced_ethnicity[dat$profile_ethnicity == "Any other black background"] <- "Black"
+dat$reduced_ethnicity[dat$profile_ethnicity == "Black African"] <- "Black" 
+dat$reduced_ethnicity[dat$profile_ethnicity == "Black Caribbean"] <- "Black"
+dat$reduced_ethnicity[dat$profile_ethnicity == "Any other white background"] <- "Other white"
+dat$reduced_ethnicity[dat$profile_ethnicity == "Other ethnic group"] <- "Other"
+
+dat$mp_reduced_ethnicity[dat$mp_ethnicity_match_bes == "Indian"] <- "Indian/Pakistani/Bangladeshi" 
+dat$mp_reduced_ethnicity[dat$mp_ethnicity_match_bes == "Pakistani"] <- "Indian/Pakistani/Bangladeshi" 
+dat$mp_reduced_ethnicity[dat$mp_ethnicity_match_bes == "Bangladeshi"] <- "Indian/Pakistani/Bangladeshi" 
+dat$mp_reduced_ethnicity[dat$mp_ethnicity_match_bes == "White and Asian"] <- "Mixed"
+dat$mp_reduced_ethnicity[dat$mp_ethnicity_match_bes == "White and Black African"] <- "Mixed background" 
+dat$mp_reduced_ethnicity[dat$mp_ethnicity_match_bes == "White and Black Caribbean"] <- "Mixed background" 
+dat$mp_reduced_ethnicity[dat$mp_ethnicity_match_bes == "Any other mixed background"] <- "Mixed background" 
+dat$mp_reduced_ethnicity[dat$mp_ethnicity_match_bes == "Chinese"] <- "Asian"
+dat$mp_reduced_ethnicity[dat$mp_ethnicity_match_bes == "Any other Asian background"] <- "Asian" 
+dat$mp_reduced_ethnicity[dat$mp_ethnicity_match_bes == "Any other black background"] <- "Black"
+dat$mp_reduced_ethnicity[dat$mp_ethnicity_match_bes == "Black African"] <- "Black" 
+dat$mp_reduced_ethnicity[dat$mp_ethnicity_match_bes == "Black Caribbean"] <- "Black"
+dat$mp_reduced_ethnicity[dat$mp_ethnicity_match_bes == "Any other white background"] <- "Other white"
+dat$mp_reduced_ethnicity[dat$mp_ethnicity_match_bes == "Other ethnic group"] <- "Other"
+
+dat$reduced_ethnicity_no_mixed <- dat$profile_ethnicity
+dat$reduced_ethnicity_no_mixed[dat$profile_ethnicity == "Indian"] <- "Indian/Pakistani/Bangladeshi" 
+dat$reduced_ethnicity_no_mixed[dat$profile_ethnicity == "Pakistani"] <- "Indian/Pakistani/Bangladeshi" 
+dat$reduced_ethnicity_no_mixed[dat$profile_ethnicity == "Bangladeshi"] <- "Indian/Pakistani/Bangladeshi" 
+dat$reduced_ethnicity_no_mixed[dat$profile_ethnicity == "White and Asian"] <- "Asian"
+dat$reduced_ethnicity_no_mixed[dat$profile_ethnicity == "White and Black African"] <- "Black"
+dat$reduced_ethnicity_no_mixed[dat$profile_ethnicity == "White and Black Caribbean"] <- "Black"
+dat$reduced_ethnicity_no_mixed[dat$profile_ethnicity == "Any other mixed background"] <- "Other"
+dat$reduced_ethnicity_no_mixed[dat$profile_ethnicity == "Chinese"] <- "Asian"
+dat$reduced_ethnicity_no_mixed[dat$profile_ethnicity == "Any other Asian background"] <- "Asian" 
+dat$reduced_ethnicity_no_mixed[dat$profile_ethnicity == "Any other black background"] <- "Black"
+dat$reduced_ethnicity_no_mixed[dat$profile_ethnicity == "Black African"] <- "Black" 
+dat$reduced_ethnicity_no_mixed[dat$profile_ethnicity == "Black Caribbean"] <- "Black"
+dat$reduced_ethnicity_no_mixed[dat$profile_ethnicity == "Any other white background"] <- "Other white"
+dat$reduced_ethnicity_no_mixed[dat$profile_ethnicity == "Other ethnic group"] <- "Other"
+
+dat$mp_reduced_ethnicity_no_mixed[dat$mp_ethnicity_match_bes == "Indian"] <- "Indian/Pakistani/Bangladeshi" 
+dat$mp_reduced_ethnicity_no_mixed[dat$mp_ethnicity_match_bes == "Pakistani"] <- "Indian/Pakistani/Bangladeshi" 
+dat$mp_reduced_ethnicity_no_mixed[dat$mp_ethnicity_match_bes == "Bangladeshi"] <- "Indian/Pakistani/Bangladeshi" 
+dat$mp_reduced_ethnicity_no_mixed[dat$mp_ethnicity_match_bes == "White and Asian"] <- "Asian"
+dat$mp_reduced_ethnicity_no_mixed[dat$mp_ethnicity_match_bes == "White and Black African"] <- "Black" 
+dat$mp_reduced_ethnicity_no_mixed[dat$mp_ethnicity_match_bes == "White and Black Caribbean"] <- "Black" 
+dat$mp_reduced_ethnicity_no_mixed[dat$mp_ethnicity_match_bes == "Any other mixed background"] <- "Other"
+dat$mp_reduced_ethnicity_no_mixed[dat$mp_ethnicity_match_bes == "Chinese"] <- "Asian"
+dat$mp_reduced_ethnicity_no_mixed[dat$mp_ethnicity_match_bes == "Any other Asian background"] <- "Asian" 
+dat$mp_reduced_ethnicity_no_mixed[dat$mp_ethnicity_match_bes == "Any other black background"] <- "Black"
+dat$mp_reduced_ethnicity_no_mixed[dat$mp_ethnicity_match_bes == "Black African"] <- "Black" 
+dat$mp_reduced_ethnicity_no_mixed[dat$mp_ethnicity_match_bes == "Black Caribbean"] <- "Black"
+dat$mp_reduced_ethnicity_no_mixed[dat$mp_ethnicity_match_bes == "Any other white background"] <- "Other white"
+dat$mp_reduced_ethnicity_no_mixed[dat$mp_ethnicity_match_bes == "Other ethnic group"] <- "Other"
+
 dat$region_east <- 0
 dat$region_east[dat$gor == "East of England"] <- 1
 dat$region_yorkshire <- 0
@@ -172,6 +234,17 @@ dat$same_gender[dat$female == dat$mp_female] <- 1
 
 dat$same_bame <- 0
 dat$same_bame[dat$bame == dat$mp_bame] <- 1
+
+#only populated for MPs otherwise categorised as BAME
+dat$same_ethnicity <- 0
+dat$same_ethnicity[dat$profile_ethnicity == dat$mp_ethnicity_match_bes] <- 1
+
+dat$same_reduced_ethnicity <- 0
+dat$same_reduced_ethnicity[dat$reduced_ethnicity == dat$mp_reduced_ethnicity] <- 1
+
+dat$same_reduced_ethnicity_no_mixed <- 0
+dat$same_reduced_ethnicity_no_mixed[dat$reduced_ethnicity_no_mixed == dat$mp_reduced_ethnicity_no_mixed] <- 1
+
 
 dat$mp_bame_voter_not <- 0
 dat$mp_bame_voter_not[dat$bame == 0 & dat$mp_bame == 1] <- 1

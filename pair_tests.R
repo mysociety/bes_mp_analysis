@@ -60,7 +60,11 @@ edu_df <- test.to.df(edu_test, "University", "Non-graduates", "Graduates")
 
 #reverse to get colours right way around
 bame_test <- wtd.t.test.with.paired.bounds(dat$correct_mp, !dat$bame, weight = dat$wt_full_W1)
-bame_df <- test.to.df(bame_test, "Ethnicity","BAME ethnicities", "White ethnicities")
+bame_df <- test.to.df(bame_test, "Ethnicity (BAME)","Ethnic minorities (exc. White)", "White Ethnicites")
+
+#reverse to get colours right way around
+em_test <- wtd.t.test.with.paired.bounds(dat$correct_mp, !dat$nonwhitebritish, weight = dat$wt_full_W1)
+em_df <- test.to.df(em_test, "Ethnicity","Ethnic minorities (inc. White)", "White British")
 
 home_test <- wtd.t.test.with.paired.bounds(dat$correct_mp, dat$homeowner, weight = dat$wt_full_W1)
 home_df <- test.to.df(home_test, "Housing Tenure","Private/social renters", "Homeowners")
@@ -69,7 +73,7 @@ home_df <- test.to.df(home_test, "Housing Tenure","Private/social renters", "Hom
 age_test <- wtd.t.test.with.paired.bounds(dat$correct_mp, !dat$below_35, weight = dat$wt_full_W1)
 age_df <- test.to.df(age_test, "Age","Below 35", "Above 35" )
 
-df <- rbind(income_df, edu_df, bame_df, home_df, age_df)
+df <- rbind(income_df, edu_df, bame_df,em_df,  home_df, age_df)
 
 
 # set up chart of different t-tests
@@ -92,7 +96,7 @@ g <- ggplot(df, aes(
   ggtitle("Can you recognise your MP's name from a list?") +
   scale_x_continuous(label = percent, limits = 0:1) +
   mysoc_theme(legend.position = "none") +
-  scale_colour_manual(values = c(mysoc_red, mysoc_blue_dark)) +
+  scale_colour_manual(values = c(mysoc_palette_berry, mysoc_palette_dark_blue)) +
   labs(caption = "Data sources: BES 2014")
 
 save_and_show(g, height=6, "outputs//ttest_plot.png")

@@ -9,6 +9,7 @@ library(scales)
 library(sjPlot)
 library(sjmisc)
 library(sjlabelled)
+library(DescTools)
 
 source("data_processing_and_model.R")
 source("ggplot_mysoc_theme//mysoc_theme.R")
@@ -19,7 +20,8 @@ dat <- dat[(dat$bame==1),]
 lm <- glm(correct_mp ~ is_uk + is_eu + is_cm + female + age
   + edu + homeowner + houseincome + income
   + pol_attention + vote_likelyhood + party_strength
- + mp_bame
+  + mp_bame
+  + same_ethnicity
   + region_east + region_northwest + region_scotland + region_london
   + mp_female + mp_age + mp_tenure + mp_gov + mp_opp
   + same_party + same_gender
@@ -31,8 +33,7 @@ weights = dat$wt_full_W1, data = dat, family = binomial("logit")
 qlm <- update(lm, family = quasibinomial("logit"))
 
 summary(qlm)
-pR2(lm)
-
+PseudoR2(lm)
 
 
 coefs <- c(
@@ -48,9 +49,12 @@ coefs <- c(
   "Political attention (9 point scale)" = "pol_attention",
   "Likelihood to vote (5 point scale)" = "vote_likelyhood",
   "Party identification (3 point scale)" = "party_strength",
-  "BAME respondent" = "bame",
-  "BAME MP" = "mp_bame",
-  "Both BAME" = "both_bame",
+  "Ethnic minority (BAME) respondent" = "bame",
+  "Ethnic minority (BAME) MP" = "mp_bame",
+  "Same ethnicity as MP" = "same_ethnicity",
+  "Same (grouped) ethnicity as MP" = "same_reduced_ethnicity",
+  "Same (grouped, no mixed) ethnicity as MP" = "same_reduced_ethnicity_no_mixed",
+  "Both ethnic minority" = "both_bame",
   "East" = "region_east",
   "North West" = "region_northwest",
   "Scotland" = "region_scotland",
@@ -71,9 +75,12 @@ groups <- list(
     "Both female"
   ),
   Ethnicity = c(
-    "BAME respondent",
-    "BAME MP",
-    "Both BAME"
+    "Ethnic minority (BAME) respondent",
+    "Ethnic minority (BAME) MP",
+    "Both ethnic minority",
+    "Same ethnicity as MP",
+    "Same (grouped) ethnicity as MP",
+    "Same (grouped, no mixed) ethnicity as MP"
   ),
   Citizen = c(
     "UK citizen",
@@ -117,7 +124,7 @@ addX <- function(x, ...)
 colors <- c(mysoc_dark_grey, mysoc_blue)
 g <- plot_summs(qlm, scale = TRUE, colors = colors, groups = groups, coefs = coefs, facet.label.pos = "left", exp=TRUE, ci_level=0.99) +
   ggtitle("Can you recognise your MP's name from a list?") +
-  ylab("BAME respondents only. Logistic regression (predicted change in odds for one unit increase)") +
+  ylab("Ethnic minority (BAME) respondents only. Logistic regression (predicted change in odds for unit increase)") +
   xlab("Estimate and 99% confidence range") +
   scale_x_continuous(label = addX, breaks = 0:10) + 
   mysoc_theme() +
