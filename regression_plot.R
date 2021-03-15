@@ -18,7 +18,7 @@ source("alt_plot_coefs.R")
 lm <- glm(correct_mp ~ is_uk + is_eu + is_cm + female + age
   + edu + homeowner + houseincome + income
   + pol_attention + vote_likelyhood + party_strength
-  + bame + both_bame + mp_bame
+  + bame + both_bame + mp_bame + same_minority_religion
   + region_east + region_northwest + region_scotland + region_london
   + mp_female + mp_age + mp_tenure + mp_gov + mp_opp
   + same_party + same_gender
@@ -30,7 +30,11 @@ weights = dat$wt_full_W1, data = dat, family = binomial("logit")
 qlm <- update(lm, family = quasibinomial("logit"))
 
 summary(qlm)
-PseudoR2(lm)
+
+mod <- lm
+nullmod <- glm(dat$correct_mp~1, family="binomial")
+mcfadden = 1-logLik(mod)/logLik(nullmod)
+mcfadden
 
 coefs <- c(
   "UK citizen" = "is_uk",
@@ -48,6 +52,7 @@ coefs <- c(
   "Ethnic minority (BAME) respondent" = "bame",
   "Ethnic minority (BAME) MP" = "mp_bame",
   "Both ethnic minority" = "both_bame",
+  "Ethnic majority - same minority religion" = "same_minority_religion",
   "East" = "region_east",
   "North West" = "region_northwest",
   "Scotland" = "region_scotland",
@@ -67,10 +72,11 @@ groups <- list(
     "Female MP",
     "Both female"
   ),
-  Ethnicity = c(
+  Group = c(
     "Ethnic minority (BAME) respondent",
     "Ethnic minority (BAME) MP",
-    "Both ethnic minority"
+    "Both ethnic minority",
+    "Ethnic majority - same minority religion"
   ),
   Citizen = c(
     "UK citizen",

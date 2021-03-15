@@ -1,633 +1,633 @@
-ep_id,mpName,correctly_spelled,mp_gender,mp_party,mp_age,mp_tenure,mp_gov,mp_opp,mp_bame,mp_ethnicity_closest_to_self_described,mp_ethnicity_match_bes
-8757f7ba-6d65-445a-b162-08017ba7654a,Graham Evans,1,male,conservative,50,3,0,0,0,,
-d322deb0-356e-49c5-b8ca-621691a0590a,Sam Gyimah,1,male,conservative,37,3,1,0,1,Black African,Black African
-2e1e85f4-faf9-4cca-8b94-bae0565fb57e,Mark Simmonds,1,male,conservative,49,12,1,0,0,,
-bbb08548-aaee-4d36-864b-e3bbd76beb10,Alan Whitehead,1,male,labour,63,16,0,0,0,,
-e38334f8-2c69-44d7-aa9c-9d1039d98e44,Bill Wiggin,1,male,conservative,47,12,0,0,0,,
-36c6ab70-1e3a-414c-b99e-7b1c84169d9f,Jonathan Evans,1,male,conservative,63,21,0,0,0,,
-e3a5f695-9c50-4d35-b05c-69672eca5af5,Brian H. Donohoe,1,male,labour,65,21,0,0,0,,
-8ab6a9ba-4ba2-4695-ba20-4064a839c0d7,Julian Smith,1,male,conservative,42,3,0,0,0,,
-cd4c9341-4471-4125-a78e-13f8ffba4d72,Paul Murphy,1,male,labour,65,26,0,0,0,,
-e984ff42-3c14-4ce4-9423-d042ed40d20a,Jonathan Djanogly,1,male,conservative,48,12,0,0,0,,
-e54d243b-5ed0-4eb5-b7c8-6e0d1bb290ae,Edward Timpson,1,male,conservative,40,5,1,0,0,,
-725dc315-d64c-4a66-8c9a-6a8e36c6170f,Susan Elan Jones,1,female,labour,45,3,0,1,0,,
-edd46a8a-7191-46e7-ae03-d469b97ee9e7,Iain Stewart,1,male,conservative,41,3,0,0,0,,
-328e0940-5503-4634-81d5-11f07a68ea17,Damian Collins,1,male,conservative,39,3,0,0,0,,
-809a2a10-d0c8-4af6-9d90-fb76b9ef81d0,Philip Dunne,1,male,conservative,55,8,1,0,0,,
-10fdca28-0ac2-486a-ac61-bdf0eee59baf,Amber Rudd,1,female,conservative,50,3,1,0,0,,
-f2e94257-a37d-4cec-935d-8f30b9f589b7,Valerie Vaz,1,female,labour,59,3,0,0,1,Indian,Indian
-8af464cc-6c04-4e8a-b2dd-2189927a0879,Eric Joyce,1,male,labour,53,13,0,0,0,,
-7338a938-d216-4a0d-957f-e79ddbae74df,Sarah Wollaston,1,female,conservative,51,3,0,0,0,,
-63c6eb91-8f08-4150-9319-89de2391f778,Richard Benyon,1,male,conservative,53,8,0,0,0,,
-e259a414-eff4-4bc4-8f63-8563e19aed59,Andrew Bingham,1,male,conservative,51,3,0,0,0,,
-7b17e1f5-c249-43f9-97ac-7182315eadb1,Jeremy Browne,1,male,liberal-democrat,43,8,0,0,0,,
-a3bb0d9d-9743-4a2b-853d-16eb0e90f0a0,Julie Hilling,1,female,labour,58,3,0,1,0,,
-6a96c3e2-c057-4bff-8d51-9df52706a58f,Andrew Mitchell,1,male,conservative,57,26,0,0,0,,
-e7e06020-d834-4c95-8cdc-d611325d78a3,Simon Hart,1,male,conservative,50,3,0,0,0,,
-8f95c9e7-b3ce-418d-8bf4-190c66a2c421,Mark Tami,1,male,labour,51,12,0,1,0,,
-18a9f1f8-ba92-45a9-86f3-e651b8ae020e,Matthew Hancock,1,male,conservative,35,3,1,0,0,,
-9b9a9e26-6622-4e3d-8820-44497471a151,Harriett Baldwin,1,female,conservative,53,3,0,0,0,,
-51b8d916-1441-4f35-a290-fb164f7a5ca7,Nia Griffith,1,female,labour,57,8,0,1,0,,
-2235c51b-63c8-4261-be64-87cbce9a3011,Yvette Cooper,1,female,labour,44,16,0,1,0,,
-376383ea-f61b-41dc-8189-55d17d50b719,George Hollingbery,1,male,conservative,50,3,0,0,0,,
-3646a9c1-f54c-41bc-9981-8ad5698e8120,Edward Vaizey,1,male,conservative,45,8,1,0,0,,
-f7d231bd-b934-4fc2-95ea-575599e4b017,Angela Eagle,1,female,labour,52,21,0,1,0,,
-48e07428-aff9-4cf1-ad51-29490b85d907,Brandon Lewis,1,male,conservative,42,3,1,0,0,,
-14c3d819-a56c-4fa1-81c6-02f143fbec4e,Patrick Mercer,1,male,conservative,57,12,0,0,0,,
-74c8931f-8a8d-48a8-b9f8-2d4f2aec32a0,Andrea Leadsom,1,female,conservative,50,3,0,0,0,,
-aff356e2-41ea-43a5-a537-690fdfc563d6,Hugh Bayley,1,male,labour,62,21,0,0,0,,
-073eaa7a-f3a1-4632-897b-24dc8ed3eec5,Lorraine Fullbrook,1,female,conservative,54,3,0,0,0,,
-1499f26e-8607-4ec3-a703-31f99d002fc8,Liz Kendall,1,female,labour,42,3,0,1,0,,
-dd13506c-6dee-4255-a05f-d63903c51588,Jo Swinson,1,female,liberal-democrat,33,8,0,0,0,,
-b854bd7d-a11d-4897-8a6d-ca183d66a4ca,Iain Duncan Smith,1,male,conservative,59,21,1,0,0,,
-20e47013-df7b-45e4-a846-77651c1a4ec1,David Nuttall,1,male,conservative,51,3,0,0,0,,
-4cbb8157-7c61-4fb1-8340-98177e3d08e5,Mark Francois,1,male,conservative,48,12,1,0,0,,
-7df1817e-ff99-4429-ac3a-16f7ad83ab12,Geoffrey Robinson,1,male,labour,75,37,0,0,0,,
-82ea1d8e-cfa2-4a17-901f-c187abebc3cb,David Jones,1,male,conservative,61,8,1,0,0,,
-486e3536-3c99-41ed-ac0d-bd0210d00dd2,John Spellar,1,male,labour,66,31,0,1,0,,
-e6cb64f8-adfc-4df0-ad4b-acd5ebcce164,Frank Roy,1,male,labour,55,16,0,0,0,,
-44fea536-808d-4c6a-9996-c4c8b765f7c2,Margaret Beckett,1,female,labour,71,39,0,0,0,,
-465244d6-5321-434a-9ff5-7b836f750a96,Chuka Umunna,1,male,labour,35,3,0,1,1,White and Black African,White and Black African
-8276b561-cb04-4c9c-bcd6-a0d7bbd44514,Eric Ollerenshaw,1,male,conservative,63,3,0,0,0,,
-767250a1-8dda-4c7c-b17c-8e0de6c731f2,Justine Greening,1,female,conservative,44,8,1,0,0,,
-f907367c-2241-4d4b-96a3-9271e6218c86,Maria Miller,1,female,conservative,49,8,1,0,0,,
-9bba9ece-5f93-441c-81ff-d98b86b4bd1f,Julian Sturdy,1,male,conservative,42,3,0,0,0,,
-66a90126-b8b6-497c-8891-b24203a6589d,Simon Reevell,1,male,conservative,47,3,0,0,0,,
-0520e866-da50-4c0c-89f4-c85506e501a0,James Duddridge,1,male,conservative,42,8,0,0,0,,
-e549cc61-81f3-4fa9-b528-61e73d7794b9,Simon Kirby,1,male,conservative,49,3,0,0,0,,
-22c9140c-2f66-423f-bf2d-7efc56e74525,John Hemming,1,male,liberal-democrat,53,8,0,0,0,,
-18da8cfd-c352-425b-aebf-25ac6032b9fb,Shailesh Vara,1,male,conservative,53,8,1,0,1,Indian,Indian
-e6b4c181-4202-481c-84da-a3b0c4c0ce42,Dan Rogerson,1,male,liberal-democrat,38,8,1,0,0,,
-8364c43c-2816-49c9-9a93-1b27e31a5f01,Edward Leigh,1,male,conservative,63,30,0,0,0,,
-4bee9459-4d49-4453-a70d-1e58446856ea,Ben Wallace,1,male,conservative,43,14,0,0,0,,
-168cb977-e5df-4cb2-865f-84d51687502e,Jake Berry,1,male,conservative,35,3,0,0,0,,
-1c0b9247-9666-4656-bed4-9c845de1f6cf,Oliver Colvile,1,male,conservative,54,3,0,0,0,,
-6a505ea4-70aa-4398-840f-5d068afd22a2,Peter Lilley,1,male,conservative,70,30,0,0,0,,
-7e632a66-b4a1-47e8-99b0-88cdb1821f8a,Anne Begg,1,female,labour,58,16,0,0,0,,
-b3165cb8-71de-4c87-87f9-3662126a2c66,Fiona O'Donnell,1,female,labour,54,3,0,0,0,,
-f78168c2-730b-44c1-9e64-b3c158e046aa,Michael Fabricant,1,male,conservative,63,21,0,0,0,,
-3c1596f7-645e-4162-b89d-4b08affa0954,Robert Walter,1,male,conservative,65,16,0,0,0,,
-4c2cb6c9-d832-4903-b07d-db95fcaef8c3,Oliver Letwin,1,male,conservative,57,16,1,0,0,,
-5640283f-e650-4c6b-a274-79d3c006f5da,Eleanor Laing,1,female,conservative,56,16,0,0,0,,
-95415bba-6ab9-423f-b717-479672164cda,Stephen O'Brien,1,male,conservative,56,14,0,0,0,,
-3ead5f10-a485-4286-a42d-d16cee176e00,Mike Weir,1,male,scottish-national-party,56,12,0,1,0,,
-3fdc4150-5805-4039-8fa9-a5de6e229bd0,Lisa Nandy,1,female,labour,34,3,0,1,1,White and Indian,White and Asian
-c09386a3-5715-4bc8-9850-7344e2d6be0b,Gavin Williamson,1,male,conservative,37,3,0,0,0,,
-139a31fb-787c-4e85-bdfc-15425c334e0f,Alan Beith,1,male,liberal-democrat,70,40,0,0,0,,
-614a9faf-ea70-4302-8a29-fc3b20bf000e,Stephen Lloyd,1,male,liberal-democrat,56,3,0,0,0,,
-54339630-9cd2-440b-8f8b-7b97bc20e53d,Peter Bottomley,1,male,conservative,69,38,0,0,0,,
-33dfbf31-d637-4780-9832-58215f3b737d,Thomas Docherty,1,male,labour,39,3,0,1,0,,
-db9c7390-3ba5-4476-9315-14c693b48c99,Guy Opperman,1,male,conservative,48,3,0,0,0,,
-7b4736ff-605b-45fd-8569-6cdbaddefba2,Ed Balls,1,male,labour,46,8,0,1,0,,
-ecaccaf9-bee4-421d-863d-8478d283d34f,Geoffrey Cox,1,male,conservative,53,8,0,0,0,,
-5655d43c-5c72-477a-bf50-eee364c3b369,Emily Thornberry,1,female,labour,53,8,0,1,0,,
-b9d577bd-f12e-452c-b6de-6b39de1121f8,Wayne David,1,male,labour,56,12,0,0,0,,
-8be5abce-a899-446f-8b5e-59f9f519ee9b,William Hague,1,male,conservative,52,24,1,0,0,,
-b7a6c3b0-4902-45f5-a89b-de09a329287a,Chris White,1,male,conservative,46,3,0,0,0,,
-ea3dd95d-5e19-42d3-859a-fcb50e5ad8c5,Ian Swales,1,male,liberal-democrat,60,3,0,0,0,,
-1a95a1f7-e7d6-428f-9719-33105e9b63c6,Stephen Phillips,1,male,conservative,43,3,0,0,0,,
-97ba6c0c-9b1c-4389-a5a3-c7a6da83491e,Aidan Burley,1,male,conservative,35,3,0,0,0,,
-8cd520ac-9216-4f8e-a425-18ec967233b5,Roger Gale,1,male,conservative,70,30,0,0,0,,
-f4005293-d951-4781-9f4c-db7d0cc8a91e,Charles Kennedy,1,male,liberal-democrat,54,30,0,0,0,,
-548e7f10-5eb3-442a-8825-e963018d2990,Rebecca Harris,1,female,conservative,46,3,0,0,0,,
-d7d0b5e3-ef36-41c4-bf1a-d5d72172848e,Norman Lamb,1,male,liberal-democrat,56,12,1,0,0,,
-93104ebb-07ae-4041-9534-893982d1c7b6,Peter Tapsell,1,male,conservative,84,54,0,0,0,,
-0eb0b97e-4a72-4545-81a7-59bd4c85a9a1,Craig Whittaker,1,male,conservative,51,3,0,0,0,,
-5bf9e3a2-5dc4-4d86-a09f-9d89d6b610f2,David Willetts,1,male,conservative,57,21,1,0,0,,
-3a6f850f-f4b6-4e2f-8e5c-cbd8d9ed7ae6,Julian Lewis,1,male,conservative,62,16,0,0,0,,
-9b8c3442-1a77-46ef-96d0-c43bed6f6007,Stephen Gilbert,1,male,liberal-democrat,37,3,0,0,0,,
-94d95897-e50d-437c-85c5-9b01ead07a2e,Austin Mitchell,1,male,labour,79,36,0,0,0,,
-66c2342d-cc10-493b-b937-468d7bbb5a91,Stephen Doughty,1,male,labourco-operative,33,1,0,1,0,,
-24374212-3f85-4e77-bb93-3e8e563d5995,George Eustice,1,male,conservative,42,3,1,0,0,,
-a9e9e4f0-50db-46ab-948f-548eb9eb2455,Dan Jarvis,1,male,labour,41,2,0,1,0,,
-143e9107-f2b6-4c8a-b51c-4b47647d4ef4,Mel Stride,1,male,conservative,52,3,0,0,0,,
-8d593d61-55bb-4b13-aae7-fe6e9040479d,Jonathan Reynolds,1,male,labourco-operative,33,3,0,1,0,,
-28cc5a9d-e522-4c02-87d1-2213f80d5655,Andrew Jones,1,male,conservative,50,3,0,0,0,,
-423db8e2-7be0-47ee-b698-2a0957d27a9d,Dominic Raab,1,male,conservative,39,3,0,0,0,,
-c72c9887-92f5-46c6-8d69-6210493213eb,Chris Grayling,1,male,conservative,51,12,1,0,0,,
-61eee60f-e4f9-456e-8327-37c37142b5cb,Francis Maude,1,male,conservative,60,30,1,0,0,,
-b8f57586-747b-4bfa-990c-30187a3b95f7,Greg Knight,1,male,conservative,64,30,0,0,0,,
-55861f11-a816-4650-b774-ba1c93247198,Alan Haselhurst,1,male,conservative,76,43,0,0,0,,
-636d620f-6736-480d-b5b8-3fca387dd4e2,Nicola Blackwood,1,female,conservative,34,3,0,0,0,,
-8b0c4c98-e88e-4887-b231-aec1a7bb63aa,Paul Farrelley,0,male,labour,51,12,0,0,0,,
-41342093-5665-409e-ab5c-4b93c4b47f90,Frank Doran,1,male,labour,64,26,0,0,0,,
-8f796b06-116d-404e-a0c8-bbfd53d90edb,John Howell,1,male,conservative,58,5,0,0,0,,
-a90d68cc-af1a-4fe5-9af7-09d60a75ec57,Kevin Barron,1,male,labour,67,30,0,0,0,,
-aa3c1dfd-9425-4262-abe6-07f7673291a3,Mark Hunter,1,male,liberal-democrat,56,8,1,0,0,,
-65a53c58-e44a-4ff9-bd58-07765c338820,Toby Perkins,1,male,labour,43,3,0,1,0,,
-cb826d12-edd0-457f-90cd-83678ce33e38,Pauline Latham,1,female,conservative,65,3,0,0,0,,
-55c8db96-f341-4625-93d3-d07138aed372,Jim Dowd,1,male,labour,62,21,0,0,0,,
-79ac228a-d986-40c5-870a-b3eed111d428,Chris Kelly,1,male,conservative,35,3,0,0,0,,
-09cd8b28-cbd7-446e-b204-481a6dcc6b7a,Julie Elliott,1,female,labour,50,3,0,1,0,,
-cbb22f79-4996-481f-ab19-425767c88a4f,Kris Hopkins,1,male,conservative,50,3,1,0,0,,
-2396b05f-1284-4961-aba8-36d8c288c7d3,Dai Havard,1,male,labour,63,12,0,0,0,,
-19385dcf-28ca-4b60-a9c9-f4832f3948ce,Joseph Johnson,1,male,conservative,42,3,1,0,0,,
-fde77dfc-5be9-448f-8626-7a1ca46661e6,Barbara Keeley,1,female,labour,61,8,0,0,0,,
-b205bacb-eecf-4a72-ba52-3ab330318c39,John Bercow,1,male,speaker,51,16,0,0,0,,
-ad76754d-647b-4577-8069-f1a142706264,Catherine McKinnell,1,female,labour,37,3,0,1,0,,
-52f46312-fdb4-46e8-a62b-a77d7aae791c,Annette Brooke,1,female,liberal-democrat,66,12,0,0,0,,
-6b6aad6b-b1fd-4c33-97e1-97b2b727be9a,John Glen,1,male,conservative,39,3,0,0,0,,
-95a0a7ad-14fe-449c-93a9-83f32713ef16,Stephen Williams,1,male,liberal-democrat,47,8,1,0,0,,
-11ee4f47-4cf7-4630-92b4-0f76e38ca918,Jim Dobbin,1,male,labour,72,16,0,0,0,,
-b746ce82-e2ea-4cbf-b2f3-f6e4de071ee0,Tony Baldry,1,male,conservative,63,30,1,0,0,,
-0f2aff09-e0a1-4964-bc55-f21946ad7696,Richard Graham,1,male,conservative,55,3,0,0,0,,
-cc1e9d56-73f0-440e-b20a-68612152e972,Eric Pickles,1,male,conservative,61,21,1,0,0,,
-e8c49ab4-99b3-4b26-87aa-344468e50884,Jeremy Hunt,1,male,conservative,47,8,1,0,0,,
-23d74d7d-3cdb-4e4c-bb3f-f96769998a6d,Chris Bryant,1,male,labour,52,12,0,1,0,,
-07779ad8-642f-4a99-89ef-ab05d7fb4b63,Andrew Turner,1,male,conservative,60,12,0,0,0,,
-ba1300c3-0248-46f5-8781-ecabe8dbd8b4,Luciana Berger,1,female,labourco-operative,32,3,0,1,0,,
-b1416719-e4c2-462d-85f0-776ee1ead351,Russell Brown,1,male,labour,62,16,0,1,0,,
-2148a0c3-5139-4f6f-a565-f10979f1beb0,Mary Creagh,1,female,labour,46,8,0,1,0,,
-94c67f1f-5d80-488c-b963-abb89e0c7e32,Geraint Davies,1,male,labourco-operative,53,16,0,0,0,,
-568d99e6-67e2-42fd-af01-f955f0d891ab,Jim Cunningham,1,male,labour,72,21,0,0,0,,
-b982f099-606b-4c2e-9045-7554b651ac83,Margaret Hodge,1,female,labour,69,19,0,0,0,,
-123a9485-d504-4016-996f-f62b921428a4,Andrew Gwynne,1,male,labour,39,8,0,1,0,,
-1a06e628-2403-4d33-8b80-0f6dc2352cc9,Kevan Jones,1,male,labour,49,12,0,1,0,,
-fa46da08-852f-4a22-aa25-a102e4a592fc,James Morris,1,male,conservative,46,3,0,0,0,,
-57de72bd-1c1f-45f2-a00e-8d8767423bdf,David Evennett,1,male,conservative,64,8,1,0,0,,
-111e42f6-9a35-4646-92d4-bb8fca158d55,Michael McCann,1,male,labour,50,3,0,0,0,,
-78372dbe-05ee-48fa-b3d9-c936506151a6,Philip Davies,1,male,conservative,42,8,0,0,0,,
-127ccb5c-4161-49ad-9182-80cf1030c13b,Linda Riordan,1,female,labour,60,8,0,0,0,,
-25e4908f-297d-4824-ad92-58ad1f045858,Dame Joan Ruddock,1,female,labour,70,26,0,0,0,,
-d46c94ef-eb02-46ff-b581-3a8bb05b83c7,Phil Wilson,1,male,labour,54,6,0,1,0,,
-d56e93bb-d182-44e0-a706-957ae0c974da,Simon Burns,1,male,conservative,61,26,0,0,0,,
-be03bd61-dbe5-46ed-8423-4a2b7606bcb9,James Wharton,1,male,conservative,29,3,0,0,0,,
-d3edcb30-9f02-49b2-96f0-7864e3e41282,Robert Goodwill,1,male,conservative,57,8,1,0,0,,
-61b114a6-4465-48ba-b644-8a3971382a8b,Nicholas Soames,1,male,conservative,65,30,0,0,0,,
-a12f2b4a-1c75-4b3c-9671-814baef37f78,Edward Miliband,1,male,labour,44,8,0,1,0,,
-b5e7da2e-eb53-4136-8a42-68626ea1ed11,Stephen Crabb,1,male,conservative,41,8,1,0,0,,
-9342a9c8-bfcb-400d-9e10-3d039537be5e,Michael Gove,1,male,conservative,46,8,1,0,0,,
-b1982608-092a-4cb5-88d0-93a2e513216d,Kelvin Hopkins,1,male,labour,72,16,0,0,0,,
-89f38eb6-dbb7-4277-975c-dc7d98a82b86,Meg Munn,1,female,labour,54,12,0,0,0,,
-9a10f4f6-03cc-4eef-b9fe-7cc7c5629fe5,Diana Johnson,1,female,labour,47,8,0,1,0,,
-71eef1bd-b792-4798-afca-643690e45bd9,Diane Abbott,1,female,labour,60,26,0,0,1,Black Caribbean,Black Caribbean
-237e83e4-3815-4bb8-80fc-2ce83cc2290c,Ian Liddell-Grainger,1,male,conservative,54,12,0,0,0,,
-fdac1ea6-83b3-4af4-8c5e-9a8b920d9871,Roger Godsiff,1,male,labour,67,21,0,0,0,,
-615124c1-8687-4ebd-be66-bd526f8e56af,Martin Horwood,1,male,liberal-democrat,51,8,0,0,0,,
-42fb6801-adef-4586-9220-0721ad4d5a7f,David Lammy,1,male,labour,41,13,0,0,1,African,African
-0d13e9d4-e38b-4651-9680-1d3b7951edb1,David Gauke,1,male,conservative,42,8,1,0,0,,
-0b3e4514-1198-4fbb-a272-d03ce8818cf8,Karl McCartney,1,male,conservative,45,3,0,0,0,,
-467159f7-8497-490a-9eba-6ac2ecdf8d56,Michael Moore,1,male,liberal-democrat,48,16,0,0,0,,
-fab10009-38f8-4555-bcc6-d9a9cd5ab85e,Gerry Sutcliffe,1,male,labour,60,19,0,0,0,,
-b0e31944-e435-45b8-80a3-0fa24b15965a,Natascha Engel,1,female,labour,46,8,0,0,0,,
-41e4d077-ad91-40e6-93c1-4a9ab40b0660,Stewart Jackson,1,male,conservative,49,8,0,0,0,,
-3a20d698-05f4-4714-9e3e-3da95fd3b88c,Daniel Poulter,1,male,conservative,35,3,1,0,0,,
-f3098f63-f37a-4bae-98a6-3b9b642a1723,Andrew Selous,1,male,conservative,51,12,0,0,0,,
-b42245e6-14eb-4575-a8a0-c0c0851ed0cf,James Clappison,1,male,conservative,57,21,0,0,0,,
-74679ab9-0d96-43cc-b84f-bbd825e93da0,George Young,1,male,conservative,72,39,1,0,0,,
-c97acde1-9ada-48a3-89f3-d0edc45c6271,Gemma Doyle,1,female,labour,32,3,0,1,0,,
-01fbdbc4-1cf7-4da3-a91c-1df42f806716,Tom Brake,1,male,liberal-democrat,51,16,1,0,0,,
-484b8345-c2fa-4350-987b-2cc4f29acdc9,Seema Malhotra,1,female,labourco-operative,43,2,0,1,1,Indian,Indian
-125d302b-ea01-44c7-80c5-bae93f6aca9d,Jim Fitzpatrick,1,male,labour,61,16,0,0,0,,
-cf13228f-6d5d-4331-94de-7d9cb64a90fc,Stewart Hosie,1,male,scottish-national-party,51,8,0,1,0,,
-0887c5ac-1ea6-4f35-86f4-4b8fae339b56,Andrew Stunell,1,male,liberal-democrat,71,16,0,0,0,,
-c6ccae62-3846-4d98-b169-9c0eee0c6371,Gareth Johnson,1,male,conservative,44,3,0,0,0,,
-1f8cceb7-c8df-4095-981e-e35221da8d88,Neil Carmichael,1,male,conservative,52,3,0,0,0,,
-853eb65f-91dc-4488-945c-88943e31b5de,Danny Alexander,1,male,liberal-democrat,41,8,1,0,0,,
-a5746720-c5ad-4ebf-8e43-4a1862ef272e,Andy Sawford,1,male,labour,37,1,0,1,0,,
-9dc473aa-264a-4bb6-b6c9-b32a572bf0df,John Robertson,1,male,labour,61,13,0,0,0,,
-77c9d15f-98c7-45b4-89a8-6f21ab07157d,Philip Hammond,1,male,conservative,58,16,1,0,0,,
-b7ab8e13-da59-40c6-a47e-79dcf209a54d,Bernard Jenkin,1,male,conservative,54,21,0,0,0,,
-09c9fd75-3e38-4bef-9518-9551f67019fe,Mark Williams,1,male,liberal-democrat,47,8,0,0,0,,
-7c393efb-1c08-41b1-afd9-1da853e477cc,John Penrose,1,male,conservative,49,8,1,0,0,,
-b7b1d6cd-fe24-4aa6-ab38-f2ec47b73e9a,Mike Hancock,1,male,independent,67,29,0,0,0,,
-17bae9e7-1d8d-4425-ba72-2e0d312f0bac,John Healey,1,male,labour,53,16,0,0,0,,
-f0bb615f-c584-4850-a64e-e87de40d169a,Andrew Percy,1,male,conservative,36,3,0,0,0,,
-2aa3a984-6047-4a26-81c6-770eda29d1b0,Lorely Burt,1,female,liberal-democrat,59,8,0,0,0,,
-b6f4dcb2-f8e5-4626-9739-9d80fe90ff15,Brian Binley,1,male,conservative,71,8,0,0,0,,
-0f316d11-27f5-4dd9-b94c-94f1d36a58bc,John Hayes,1,male,conservative,55,16,1,0,0,,
-9564e93b-98c4-44b9-914c-0f16be0fec72,Martin Vickers,1,male,conservative,63,3,0,0,0,,
-bf535961-e2b4-40ee-bc52-7223792e1db0,Hugo Swire,1,male,conservative,54,12,1,0,0,,
-ec3bd13d-8b32-4d27-aa65-6aa26e319cf6,David Morris,1,male,conservative,48,3,0,0,0,,
-80f5d89f-6f79-4c49-9e15-6bbd526d1912,Brooks Newmark,1,male,conservative,55,8,0,0,0,,
-8d141a19-4cc5-47b9-b86b-45c4ce073244,Graham Jones,1,male,labour,47,3,0,1,0,,
-4ada49b5-0493-4346-afd7-c3001a50777b,Mark Reckless,1,male,ukip,43,3,0,0,0,,
-873c0f5f-c92e-4be3-b5a3-5607b0ac1680,Chris Ruane,1,male,labour,55,16,0,0,0,,
-5523feb4-dd95-489a-808c-0c8f92f20af8,Don Foster,1,male,liberal-democrat,66,21,1,0,0,,
-06c8a2d3-1ac8-4043-8a0f-6d751bb6842f,Ronnie Campbell,1,male,labour,70,26,0,0,0,,
-46b00033-9639-4a69-bb1b-2149caaf44dc,Mark Lancaster,1,male,conservative,43,8,1,0,0,,
-39d21c55-5d42-4dfe-882a-a83f597aca37,Martin Caton,1,male,labour,62,16,0,0,0,,
-e2f9259f-fca5-4202-9aba-4d8272e433d5,Barry Gardiner,1,male,labour,56,16,0,1,0,,
-4880d9ea-d1a3-4d46-b8cd-c4e19af4294a,Esther McVey,1,female,conservative,46,3,1,0,0,,
-d8d455d3-1968-485f-adec-5e4061c15e26,James Arbuthnot,1,male,conservative,61,26,0,0,0,,
-9b0fc79f-e927-43c4-b9b0-ec36d38935cf,Gavin Barwell,1,male,conservative,42,3,1,0,0,,
-174bac31-e869-4225-bd61-c53f88a47b59,Yasmin Qureshi,1,female,labour,50,3,0,0,1,Pakistani,Pakistani
-1c7ee5e0-df60-4fd3-95f7-cdf5d51fe9cb,Bridget Phillipson,1,female,labour,30,3,0,1,0,,
-1c9252f2-4a9f-4546-85b8-ffd76d3eb0c7,Julian Huppert,1,male,liberal-democrat,35,3,0,0,0,,
-c314f622-8e4b-406d-af4d-9b5bd2bb5668,Mark Garnier,1,male,conservative,50,3,0,0,0,,
-69c59144-6edd-4d3e-abb3-ad3c40eb0a18,Andrew Lansley,1,male,conservative,57,16,1,0,0,,
-589f495d-4efb-4039-8045-1ec41831161e,Priti Patel,1,female,conservative,41,3,0,0,1,Indian,Indian
-cd242fc0-2af0-417c-a059-a94e7b2940c6,William Cash,1,male,conservative,73,29,0,0,0,,
-03413153-5c76-4dd8-8a5c-b257b852b04e,Alec Shelbrooke,1,male,conservative,38,3,0,0,0,,
-aafbb86d-43f3-4e08-a45e-a7e3ce48b930,Keith Simpson,1,male,conservative,64,16,0,0,0,,
-232bacdc-ee1f-44e3-bdac-cda63dbcbddb,Sajid Javid,1,male,conservative,44,3,1,0,1,Pakistani,Pakistani
-6ad5ac26-0020-4479-afb5-c0db9212de09,David Ward,1,male,liberal-democrat,60,3,0,0,0,,
-d207a584-01e7-465f-b7f0-f1c9c2e71e9d,Alistair Burt,1,male,conservative,58,30,0,0,0,,
-de82bd68-f40f-4172-aaa7-220a1427ac86,Helen Grant,1,female,conservative,52,3,1,0,1,White and Black African,White and Black African
-a6882bc8-9c5f-46f7-8c7e-fc9d3a038f49,Geoffrey Clifton-Brown,1,male,conservative,60,21,0,0,0,,
-c721d05c-2b1c-455d-814c-ae504cd3ca8d,David Lidington,1,male,conservative,57,21,1,0,0,,
-d5f00dc4-8454-4f52-8236-0dab6df529c2,Laurence Robertson,1,male,conservative,55,16,0,0,0,,
-3788fc3e-574a-49a2-befb-f8478190987c,Heidi Alexander,1,female,labour,38,3,0,1,0,,
-2c4f0d97-6ad1-42a3-9285-eb9664e9dde4,Gordon Banks,1,male,labour,58,8,0,1,0,,
-dd386d63-2747-4bea-bda4-60353c2b6bf6,Patrick McLoughlin,1,male,conservative,56,27,1,0,0,,
-5b3f242b-9267-4369-bfc5-18d75269bf82,Rachel Reeves,1,female,labour,34,3,0,1,0,,
-7d029e18-aff7-498d-a393-496b49805419,Ian Mearns,1,male,labour,56,3,0,0,0,,
-10f2b450-ff3b-41b0-af25-4402532f0fbf,Jonathan Edwards,1,male,plaid-cymru,37,3,0,1,0,,
-8beb14f9-fd86-46aa-923c-3ba24a7403ac,Mark Pritchard,1,male,conservative,47,8,0,0,0,,
-2005f337-e88f-4ee3-b899-f1496f636a10,Alok Sharma,1,male,conservative,46,3,0,0,1,Indian,Indian
-fea6ed03-3a0a-44b4-b5ba-3a6560a56b95,Anne Main,1,female,conservative,56,8,0,0,0,,
-1e081e07-f220-4953-999b-e37d977adbe1,Mark Lazarowicz,1,male,labour,60,12,0,0,0,,
-1171bfd2-c797-4d95-a021-9fee7a111188,Tobias Ellwood,1,male,conservative,47,8,0,0,0,,
-75202701-7c72-4eff-aeda-a74106afb3bb,Chloe Smith,1,female,conservative,31,4,0,0,0,,
-715cbcaa-1a45-4ee6-b516-eb7e01842e45,Andrew Smith,1,male,labour,62,26,0,0,0,,
-c7440951-174f-4490-a813-dda2b7157d38,Paul Blomfield,1,male,labour,60,3,0,0,0,,
-af2248ae-b73a-4dcc-9bd1-9f412d2111df,Damian Green,1,male,conservative,58,16,1,0,0,,
-1d8899ba-88ae-4d78-8f3a-46b2a67031eb,Richard Burden,1,male,labour,59,21,0,1,0,,
-4a7013ef-5bc9-4830-a845-6e5ca9decd65,Chris Evans,1,male,labourco-operative,36,3,0,0,0,,
-a50a275a-302c-44f8-9585-a53833b23e7d,James Brokenshire,1,male,conservative,46,8,1,0,0,,
-ffe205c2-7ba4-4512-9f04-66f9665da733,Graham Allen,1,male,labour,61,26,0,0,0,,
-ca300f47-5e59-43bd-94c1-1e9fdf15e82f,George Freeman,1,male,conservative,46,3,0,0,0,,
-638c70ce-6eff-4834-96eb-0f28ad977588,Mike Freer,1,male,conservative,53,3,0,0,0,,
-dad0f455-74c5-4db9-a33a-2bb51e4b5641,Liam Fox,1,male,conservative,52,21,0,0,0,,
-6584b02e-b750-4727-be78-d17780b5e042,Zac Goldsmith,1,male,conservative,39,3,0,0,0,,
-e9b8acc6-00bf-409c-af15-fda6e060bbd6,Jessica Lee,1,female,conservative,37,3,0,0,0,,
-554fcd41-a1b7-4235-9d42-75390e951955,Oliver Heald,1,male,conservative,59,21,1,0,0,,
-c0874f9a-4f2b-4d1e-b6fa-520319602352,Christopher Pincher,1,male,conservative,44,3,0,0,0,,
-bb8c96c8-95c6-48e8-92b1-6a68e062f6a0,Jon Trickett,1,male,labour,63,18,0,1,0,,
-a6db9570-0007-4b5c-9620-ecb33d28e846,Marcus Jones,1,male,conservative,39,3,0,0,0,,
-5435f661-9f9b-4bd8-8982-1caa08a0b4bc,Gordon Brown,1,male,labour,62,30,0,0,0,,
-dd616977-85c9-4914-99aa-ea7ed8135f5e,Lindsay Hoyle,1,male,labour,56,16,0,0,0,,
-beaab9b4-7dd7-43a1-9339-3b8e3b442514,Tim Yeo,1,male,conservative,68,30,0,0,0,,
-7b800dc6-7ad4-4a63-836f-6d9c0f3caf2a,Iain Wright,1,male,labour,41,9,0,1,0,,
-e78d5cc3-2851-448f-a5a0-c7b96e103d70,Joe Benton,1,male,labour,80,23,0,0,0,,
-8995c638-7b64-47ff-899f-29e8fa1555a9,Yvonne Fovargue,1,female,labour,57,3,0,1,0,,
-9315085b-c399-40c5-a5d8-f5dc1e152c3e,William Bain,1,male,labour,41,4,0,0,0,,
-86ff282f-0de9-4e04-a5e8-92acd8b2c49c,David Rutley,1,male,conservative,52,3,0,0,0,,
-f0939a64-c8f0-4cc2-9e69-4613c769551a,Elizabeth Truss,1,female,conservative,38,3,1,0,0,,
-0cb313bb-1c86-4054-adb9-d8527f652601,John Redwood,1,male,conservative,62,26,0,0,0,,
-f7cf7e17-c804-4548-8225-9443d527b805,Jessica Morden,1,female,labour,45,8,0,0,0,,
-1807f856-d641-4939-b768-a64d8ed1641b,ThÃ©rÃ¨se  Coff,1,female,conservative,42,3,0,0,0,,
-1a701ba1-5085-4023-890f-6a5586583beb,Alan Meale,1,male,labour,64,26,0,0,0,,
-1f1a16f3-9541-4123-8ea3-159eac5a2228,Angie Bray,1,female,conservative,60,3,0,0,0,,
-d18e3bdf-cc90-49aa-8db9-80f7f64efec0,Charlotte Leslie,1,female,conservative,35,3,0,0,0,,
-3decc38c-a5c9-4e4e-bc09-5a37cc259ee4,Caroline Nokes,1,female,conservative,41,3,0,0,0,,
-203d8847-a662-4c89-b518-46d054d62f33,Steve Rotheram,1,male,labour,52,3,0,0,0,,
-de0fa8f6-01c6-4675-82ae-9ad986f2f2c0,Barry Sheerman,1,male,labourco-operative,73,34,0,0,0,,
-344f6780-4850-4ff0-ad0c-5d06adc0c06f,Roger Williams,1,male,liberal-democrat,66,12,0,0,0,,
-bd85fce9-af0c-4ad8-a2ac-be62e0e086a7,Nicky Morgan,1,female,conservative,41,3,1,0,0,,
-980e3a46-b359-4f22-a34e-c6786e5c4890,Hilary Benn,1,male,labour,60,14,0,1,0,,
-d04976a3-058e-478e-9bc7-8d4ae78750c9,Debbie Abrahams,1,female,labour,53,3,0,0,0,,
-057a0ad4-e123-4c2a-9197-01eccf8d10c4,Stephen Hepburn,1,male,labour,54,16,0,0,0,,
-f9e90d18-1fff-4978-8dcb-29a4ea943716,Peter Bone,1,male,conservative,61,8,0,0,0,,
-d1e538e6-b185-425c-9499-3645506ed3a8,Sheryll Murray,1,female,conservative,57,3,0,0,0,,
-a6756d44-f136-45b0-b461-e9bee80fdb90,Greg Clark,1,male,conservative,46,8,1,0,0,,
-66b5be30-9ded-4389-a721-4d36303342dd,Ann McKechin,1,female,labour,52,12,0,0,0,,
-03c9e793-ddb9-4694-8e2b-96e1440cb5d2,Michael Fallon,1,male,conservative,61,30,1,0,0,,
-b9eaccb0-84d6-4e9f-b961-b5a625324818,Alistair Darling,1,male,labour,60,26,0,0,0,,
-770cea36-d62b-412a-bdd1-4e9364f54830,Stuart Andrew,1,male,conservative,42,3,0,0,0,,
-693136f0-7886-4cea-b912-ae7d8cc41007,John Denham,1,male,labour,60,21,0,0,0,,
-1c4fb4f9-510f-4134-909d-6cbc174cfab1,Guto Bebb,1,male,conservative,45,3,0,0,0,,
-91996363-564b-4b90-bece-bc93ae413949,Chris Skidmore,1,male,conservative,32,3,0,0,0,,
-80e7df57-139f-4459-a90d-59361c30b4ff,Douglas Alexander,1,male,labour,46,16,0,1,0,,
-3056ce3e-f671-4f93-8c89-26729762a8d7,Jack Straw,1,male,labour,67,34,0,0,0,,
-8d472b5f-03af-49ca-aeb2-ff7be333a821,Anne McIntosh,1,female,conservative,59,16,0,0,0,,
-c0b4d2cb-7428-48e5-affb-6eef195eec68,Andrew Rosindell,1,male,conservative,47,12,0,0,0,,
-008ca7b1-fd32-420f-b710-d49fe8e34b05,George Osborne,1,male,conservative,42,12,1,0,0,,
-aca29423-e8c5-4cb6-aec4-82e161a71f94,Michael Ellis,1,male,conservative,46,3,0,0,0,,
-1db798fa-1beb-4d03-b4ba-151f48b7a0fa,Helen Goodman,1,female,labour,56,8,0,1,0,,
-89bf3cbb-185e-4df8-a2fc-eae689bb567d,Andrew Stephenson,1,male,conservative,32,3,0,0,0,,
-6ae9c5c1-7968-4e69-8e84-9bdc5de3bfc1,Mark Prisk,1,male,conservative,51,12,0,0,0,,
-ad1404e4-6285-4291-a433-6f686c2fea26,David Mowat,1,male,conservative,56,3,0,0,0,,
-ab908e48-6271-4c0c-9be3-010ea1f5109d,Kenneth Clarke,1,male,conservative,73,43,1,0,0,,
-6f17dabd-dfef-4066-ae54-33ee54474ba8,Peter Aldous,1,male,conservative,52,3,0,0,0,,
-60873059-a590-4d44-8805-a779702e29de,David Hamilton,1,male,labour,63,12,0,1,0,,
-820b2bb6-9f45-4ef5-b53d-8edd6bc1c99c,Mark Spencer,1,male,conservative,44,3,0,0,0,,
-d94e816b-f702-45fd-8ae0-322e42e50e00,Michael Connarty,1,male,labour,66,21,0,0,0,,
-9d45abd1-68da-4f2f-933e-76f0102a9b6b,Tim Loughton,1,male,conservative,51,16,0,0,0,,
-f0e95251-affb-4cc6-a15c-18f99137f589,Theresa May,1,female,conservative,57,16,1,0,0,,
-464d2f31-1f80-4b85-9ae4-38e25301d38f,Emma Reynolds,1,female,labour,36,3,0,1,0,,
-9d84b318-79ed-445b-bd40-86822d8f81e3,Julian Brazier,1,male,conservative,60,26,0,0,0,,
-a94952c5-d69c-45af-b8b3-c45d15e155d5,Graham Stuart,1,male,conservative,51,8,0,0,0,,
-4e92423a-0f9c-4dd3-863a-d0e0ecdcd893,Jeremy Lefroy,1,male,conservative,54,3,0,0,0,,
-b58880a5-4cad-412b-ac48-698f26ad6e8c,Gordon Henderson,1,male,conservative,66,3,0,0,0,,
-8b1b407d-e95a-48c7-84fc-19a5da7878fb,Heather Wheeler,1,female,conservative,54,3,0,0,0,,
-13073e6b-b907-4a21-b588-211ed9a0a9bb,David Amess,1,male,conservative,61,30,0,0,0,,
-b5218527-3731-4f70-ad27-8d5b38182d58,Alan Johnson,1,male,labour,63,16,0,0,0,,
-8b314ba8-5889-4523-97bd-4990a83ec577,Liam Byrne,1,male,labour,43,9,0,1,0,,
-c66caca6-b155-4ef6-b8f4-13eef95fddb3,Nigel Evans,1,male,conservative,56,21,0,0,0,,
-c2744a16-c599-473e-a07e-a629df306ce2,Phillip Lee,1,male,conservative,43,3,0,0,0,,
-29e1f71e-4a96-4e5b-9a17-52c4a88bb458,Hugh Robertson,1,male,conservative,51,12,1,0,0,,
-97e5d8cb-1676-4869-9d3d-7c84657929dd,Andrew Robathan,1,male,conservative,62,21,1,0,0,,
-906518ed-c00d-4c3e-b30a-aa33c5ed6d6c,Nick Gibb,1,male,conservative,53,16,0,0,0,,
-c0c266cb-104b-4a88-ad06-e7b3077851ed,Mark Harper,1,male,conservative,43,8,1,0,0,,
-9b6d43ad-c2d7-4aa5-9ccd-39f97288c439,Nic Dakin,1,male,labour,58,3,0,1,0,,
-6b099869-883b-43d0-ae2c-22599ff78f64,Peter Hain,1,male,labour,63,22,0,0,0,,
-a0d09ab6-6229-4ac9-a822-23b19d194c0f,Paul Maynard,1,male,conservative,38,3,0,0,0,,
-78d92074-f26d-42de-8ea7-a36b12a244af,Jim Murphy,1,male,labour,46,16,0,1,0,,
-bbe0109f-8490-4565-8dc0-3026d7712e9a,Chris Williamson,1,male,labour,57,3,0,0,0,,
-ca4e58c0-df17-4881-a2f9-2f4dd90ab479,Richard Fuller,1,male,conservative,51,3,0,0,0,,
-9d75e919-ea9f-46f8-ba93-a502c5c8889c,Sheila Gilmore,1,female,labour,64,3,0,0,0,,
-d45b56b0-7266-4740-a51b-54fc3fc5267b,Philip Hollobone,1,male,conservative,49,8,0,0,0,,
-f0dcdb26-99ca-48ed-88fc-b635de51c62e,David Cameron,1,male,conservative,47,12,1,0,0,,
-6736be06-ae65-4776-9820-36727caa6776,James Gray,1,male,conservative,59,16,0,0,0,,
-cfaddafb-c036-455d-900e-b70c061822ec,Damian Hinds,1,male,conservative,44,3,0,0,0,,
-bfe11056-33a1-494c-b4c8-56752da34798,Rory Stewart,1,male,conservative,41,3,0,0,0,,
-5c64fbf5-3b08-4188-9d6f-13b0dfe5368c,Robin Walker,1,male,conservative,35,3,0,0,0,,
-f91f59a0-4c51-4e5d-aa3d-b1fbc62bf221,Mike Wood,1,male,labour,67,16,0,0,0,,
-15277ba3-b652-426d-8f99-b7b0e612dc4a,Nadine Dorries,1,female,conservative,56,8,0,0,0,,
-750ee08f-80c1-4e4c-a177-23beec2da6a9,Dan Byles,1,male,conservative,39,3,0,0,0,,
-f3e73d47-676f-4653-a2a0-fd460b7946d6,Gary Streeter,1,male,conservative,58,21,0,0,0,,
-1d16fa06-1687-4f3c-8bb6-b27fb9c4ef3f,Siobhain McDonagh,1,female,labour,53,16,0,0,0,,
-d5870570-ad42-45fc-9734-412de84c75de,Cheryl Gillan,1,female,conservative,61,21,0,0,0,,
-e5fdfd92-50f1-413f-81b4-82f17012d042,Jack Dromey,1,male,labour,65,3,0,1,0,,
-94a2de3c-ba01-434c-9915-d861493c4662,Jonathan Lord,1,male,conservative,51,3,0,0,0,,
-065c92b3-06e2-45d9-9660-b29c1d05a641,Mike Crockart,1,male,liberal-democrat,48,3,0,0,0,,
-2b90bed6-db37-4ed4-b879-a4096e9dbc1d,Steve Brine,1,male,conservative,40,3,0,0,0,,
-28b2c44c-e55f-4898-ac71-a8432f96aabc,Albert Owen,1,male,labour,54,12,0,0,0,,
-67b1112d-2266-44b2-bbcb-ab1e0883ce72,Peter Luff,1,male,conservative,58,21,0,0,0,,
-3a971340-a3ce-4fe2-8afe-835717350e5d,Andy Burnham,1,male,labour,44,12,0,1,0,,
-a4592b0c-6ec2-4e08-b3d0-47e981472bae,Henry Smith,1,male,conservative,44,3,0,0,0,,
-3c3ced63-9f37-4512-9504-1bc9f3d39d5c,Neil Parish,1,male,conservative,57,3,0,0,0,,
-c7953c38-203e-40a5-a01b-09f5c26314c5,Pete Wishart,1,male,scottish-national-party,51,12,0,1,0,,
-76c66475-c9ad-4934-adde-9070bc9d8aed,Charlie Elphicke,1,male,conservative,42,3,0,0,0,,
-03ba2cd5-25fc-4798-b506-85de02e6b3dc,Frank Dobson,1,male,labour,73,34,0,0,0,,
-48bdbfb2-8042-4eb5-bc84-b0b8dace3e1b,Mary Macleod,1,female,conservative,45,3,0,0,0,,
-2a551c45-502a-40ea-bd5c-842cbe1357f4,Owen Smith,1,male,labour,43,3,0,1,0,,
-25f30064-dfdf-4e38-8846-b9f962acf3b7,Malcom Bruce,0,male,liberal-democrat,69,30,0,0,0,,
-8511e078-6257-4dc9-94e2-14494d874775,Jacob Rees-Mogg,1,male,conservative,44,3,0,0,0,,
-b10a09f3-3afa-47dc-98ae-acb28ba668ec,Ian Davidson,1,male,labour,63,21,0,0,0,,
-36a149e3-ea22-4a46-aa93-29cb4340beb6,Greg Mulholland,1,male,liberal-democrat,43,8,0,0,0,,
-b33f2f01-02a8-4ef6-96fa-f1b19b1fd856,Nick Boles,1,male,conservative,48,3,1,0,0,,
-485ec779-7010-4b74-80fa-c0da2114872e,George Mudie,1,male,labour,68,21,0,0,0,,
-33830a63-b769-4dc0-8d8d-4e365e0dc601,Caroline Lucas,1,female,green,53,3,0,0,0,,
-cf67e0a9-d523-472b-b6a7-d3f19d9c0931,Claire Perry,1,female,conservative,49,3,1,0,0,,
-6fb6f7f3-e719-4969-bbd1-e827408bf66e,John Whittingdale,1,male,conservative,54,21,0,0,0,,
-a2daa008-28da-4d0c-87aa-dc2df5e03ed2,Andrew Tyrie,1,male,conservative,57,16,0,0,0,,
-54decb4f-7363-42bf-8653-34847b88c9d0,Shaun Woodward,1,male,labour,55,16,0,0,0,,
-ec914731-0b3a-480f-9509-be91bb245021,Conor Burns,1,male,conservative,41,3,0,0,0,,
-273b0a66-138d-4252-b38a-05b24e212f15,Fabian Hamilton,1,male,labour,58,16,0,0,0,,
-8af26c3b-c200-427d-9eae-fa32236aad5c,Lynne Featherstone,1,female,liberal-democrat,62,8,1,0,0,,
-e7ae595e-131b-4e98-ab01-ba3437a56cfd,Penny Mordaunt,1,female,conservative,40,3,0,0,0,,
-38a8ee49-c02a-4cd9-be9b-0423565c17ab,Mike Weatherley,1,male,conservative,56,3,0,0,0,,
-d77d878e-0bad-4d61-a2e7-cf1a40bc4ff2,Crispin Blunt,1,male,conservative,53,16,0,0,0,,
-f45fcf28-da42-43ca-994f-431ef1b2c701,Henry Bellingham,1,male,conservative,58,30,0,0,0,,
-bb5c2095-1335-4936-b7d5-79d408447b2b,Nick Raynsford,1,male,labour,69,27,0,0,0,,
-e6ab9297-24b1-436f-8773-982a5c769965,Rob Wilson,1,male,conservative,49,8,0,0,0,,
-8aa2b88a-1beb-456f-b946-397120756a6e,Jackie Doyle-Price,1,female,conservative,44,3,0,0,0,,
-2ea060ee-2886-42c3-a990-e74b28d9817b,Nigel Adams,1,male,conservative,47,3,0,0,0,,
-9f914afc-e9a1-4f1d-aece-6fd1a7e89a0a,Adam Holloway,1,male,conservative,48,8,0,0,0,,
-54dfc6ed-3e14-46b7-aa58-30e44c92bfb4,Justin Tomlinson,1,male,conservative,37,3,0,0,0,,
-8ca982a7-9def-41e7-92b9-c81a650032ed,Andrew Griffiths,1,male,conservative,43,3,0,0,0,,
-014d5b06-71f0-469b-b02c-994885f00e0a,Caroline Dinenage,1,female,conservative,42,3,0,0,0,,
-74fe62b2-36f8-4128-8f77-d3025ba6157e,Jeremy Wright,1,male,conservative,41,8,1,0,0,,
-5010419c-68c3-423f-bbfa-a06f7ae77aa2,Kerry McCarthy,1,female,labour,48,8,0,1,0,,
-f613eb5e-b24c-438e-aac4-d0e6c58179dc,Caroline Spelman,1,female,conservative,55,16,0,0,0,,
-5cf8fe29-8b7e-434b-9d0e-4340183c5ff4,Alison Seabeck,1,female,labour,60,8,0,1,0,,
-8760270d-cbcc-4c5e-8a2d-df3d7c6c84cb,John Stevenson,1,male,conservative,50,3,0,0,0,,
-4e2b8a32-cced-487e-8466-2b708b043095,John Randall,1,male,conservative,58,16,0,0,0,,
-7f3781f1-7498-4f4f-b8d8-c2cb8c6a3ff8,Shabana Mahmood,1,female,labour,33,3,0,1,1,Pakistani,Pakistani
-ffd1c1e2-82a4-4e1b-a522-859cff7f372f,Mary Glindon,1,female,labour,57,3,0,0,0,,
-1f96d908-7362-44de-bdf2-c6723f1925ea,Richard Harrington,1,male,conservative,56,3,0,0,0,,
-715ce251-4e17-40e6-9b41-73d38cd7904d,Edward Garnier,1,male,conservative,61,21,0,0,0,,
-26b55cc0-fd07-4798-90ed-387dbc115815,Tessa Munt,1,female,liberal-democrat,54,3,0,0,0,,
-16d17cad-d695-485b-9ac9-ad3df794d20b,Steve Reed,1,male,labourco-operative,50,1,0,1,0,,
-fa0fd42b-bc56-40d7-9143-efcb12033655,Matthew Offord,1,male,conservative,44,3,0,0,0,,
-15b9159e-715c-48ec-8116-77b707483fed,Mark Menzies,1,male,conservative,42,3,0,0,0,,
-adeb6afa-efc8-49b4-81ef-75d5166609df,Stephen Dorrell,1,male,conservative,61,34,0,0,0,,
-7a23bc89-2990-49b5-acef-0ec35a05ea4f,Richard Ottaway,1,male,conservative,68,30,0,0,0,,
-af48a89f-343d-48e4-b98a-f4e1cd61fa79,Joan Walley,1,female,labour,65,26,0,0,0,,
-e9c5d397-5fcf-442c-b27b-cf9d9791ccf1,Chris Heaton-Harris,1,male,conservative,46,3,0,0,0,,
-56a32f29-dc48-4f79-befe-d2fd67b9b159,Richard Drax,1,male,conservative,56,3,0,0,0,,
-98776c26-8349-4716-9054-b676835e7313,Sandra Osborne,1,female,labour,57,16,0,0,0,,
-09ac3392-082d-463a-bee6-6b2b8afc2b41,Tristram Hunt,1,male,labour,39,3,0,1,0,,
-7411ca22-05fa-4624-bd29-4cc3f5b2b260,James Paice,1,male,conservative,64,26,0,0,0,,
-50b29f21-b0a6-4987-bcf0-2be2d6268c1b,Nicholas Brown,1,male,labour,63,30,0,0,0,,
-99f5142c-f989-4987-b307-71deb2ec8c5b,Charles Hendry,1,male,conservative,54,21,0,0,0,,
-0ab91bca-01c5-42c6-a54e-0be50e6d18c3,Mark Pawsey,1,male,conservative,57,3,0,0,0,,
-c9cdc5d7-2220-4fc5-a851-91359abf2eb3,Richard Bacon,1,male,conservative,51,12,0,0,0,,
-89f6c9cd-904f-449c-9f7f-3f4c73badfc5,Michael Dugher,1,male,labour,38,3,0,1,0,,
-33b50128-407d-4353-bdde-82c960ee1a0f,Tom Greatrex,1,male,labour,39,3,0,1,0,,
-62c0a115-5ef9-4e10-9827-554027f7d915,Karen Bradley,1,female,conservative,43,3,1,0,0,,
-22e129e6-5fda-4875-9f95-b71f32b04c4a,Robert Smith,1,male,liberal-democrat,55,16,0,0,0,,
-1f517ead-ff14-4114-8842-e39ff2aab2a8,Derek Twigg,1,male,labour,54,16,0,0,0,,
-bd353152-d1a0-4387-9814-5eddabadca91,Steve Baker,1,male,conservative,42,3,0,0,0,,
-39218598-41c2-452f-a3df-ae2492a81025,John Stanley,1,male,conservative,72,39,0,0,0,,
-1020ed04-030d-47e5-baeb-827505778d7a,Gregory Barker,1,male,conservative,47,12,1,0,0,,
-e06b74a2-2e40-4c89-8f77-cbf5dce25f90,Harriet Harman,1,female,labour,63,31,0,1,0,,
-1e6383b9-a89e-43df-a15e-df6dcf677e11,Simon Wright,1,male,liberal-democrat,34,3,0,0,0,,
-c991587f-26b8-4d56-893f-8d5645bf5937,David Anderson,1,male,labour,60,8,0,0,0,,
-94b6f276-4657-4ac5-9345-1b9774bdc99e,Paul Burstow,1,male,liberal-democrat,51,16,0,0,0,,
-22a4b1c1-5b25-4a19-b0dc-a7d0d5e63573,Ian Murray,1,male,labour,37,3,0,1,0,,
-2d61fa08-5997-4421-b126-7f7b3c62a110,David Tredinnick,1,male,conservative,64,26,0,0,0,,
-9988e0b1-2cc5-468e-987f-71f71834496d,Andrew George,1,male,liberal-democrat,55,16,0,0,0,,
-67e460a6-e94f-47d6-a9c2-ac47f4f82443,Roberta Blackman-Woods,1,female,labour,56,8,0,1,0,,
-d568b14e-b870-4bed-b822-18ff7eca0edf,Ivan Lewis,1,male,labour,46,16,0,1,0,,
-87a67837-0ac2-4b00-bdab-3574f8cffd27,John Thurso,1,male,liberal-democrat,60,12,0,0,0,,
-fba32bbb-17f1-48b8-8797-2d534987b17d,Alan Campbell,1,male,labour,56,16,0,1,0,,
-b16148db-7312-4fea-91bb-fb167345aa75,Edward Davey,1,male,liberal-democrat,48,16,1,0,0,,
-506bf4ed-02de-4e86-8112-5da78ba7ec8c,Alan Duncan,1,male,conservative,56,21,1,0,0,,
-0b03d9ac-ba9b-4d38-9b2d-286da94b66b1,Ben Bradshaw,1,male,labour,53,16,0,0,0,,
-2d89c66c-056b-4728-b92d-a0a1b0cfb1f4,Huw Irranca-Davies,1,male,labour,51,11,0,1,0,,
-79897675-ed28-438a-bb54-e3a8bed579a6,Desmond Swayne,1,male,conservative,57,16,1,0,0,,
-d5f39a5a-e7ce-423a-aad8-90fa5f8a5fca,Kevin Brennan,1,male,labour,54,12,0,1,0,,
-0a333d66-3357-4b71-a6cc-53205f83b1a2,Mike Penning,1,male,conservative,56,8,1,0,0,,
-a590aa6e-215e-473d-80af-f0f048ac109b,Anne Milton,1,female,conservative,58,8,1,0,0,,
-a36f1491-5c13-4259-a671-126e8c81be37,Jim Hood,1,male,labour,65,26,0,0,0,,
-dbb03568-c37b-4f9f-b34e-f3b51d38df36,Menzies Campbell,1,male,liberal-democrat,72,26,0,0,0,,
-b1114cb8-f3b2-42fd-bdbd-338f66b8673b,Hywel Williams,1,male,plaid-cymru,60,12,0,1,0,,
-faebd21b-ea1e-4a94-99ef-09149e8457e0,Robert Neil,0,male,conservative,61,7,0,0,0,,
-26d8a079-beed-4d65-8655-4200407ef3c7,Glenda Jackson,1,female,labour,77,21,0,0,0,,
-8b133dc8-6326-459f-9033-24eeab5a14bb,David Wright,1,male,labour,47,12,0,0,0,,
-28803bc3-3382-4b1f-a558-fe8f81cb8ff0,Gregg McClymont,1,male,labour,37,3,0,1,0,,
-84ae2d69-aaac-40f8-93cb-cbdaaab05afa,Robert Flello,1,male,labour,48,8,0,0,0,,
-9a6e507c-2c13-4e62-9a57-2a5a232e6678,Rosie Winterton,1,female,labour,55,16,0,1,0,,
-6193c661-6fe3-4af9-9454-db09160cde6f,Lee Scott,1,male,conservative,57,8,0,0,0,,
-ee686849-6bac-4b9b-8ac2-45f235790a6c,Andy Slaughter,1,male,labour,53,8,0,1,0,,
-a30851dc-c397-445c-bcb6-3c3e28c33fa8,Nick Hebert,0,male,conservative,50,8,0,0,0,,
-dcd08376-50f7-498a-bbe2-f1ef5dba85da,Jim Sheridan,1,male,labour,61,12,0,0,0,,
-139dc8e1-884d-47c6-bc6c-e00bdcb27220,Duncan Hames,1,male,liberal-democrat,36,3,0,0,0,,
-9fec1787-624d-4b11-a738-f4ce117e13e3,Andrew Bridgen,1,male,conservative,49,3,0,0,0,,
-14573aa9-0e99-4ab8-b7ba-5443e59df132,Stephen Metcalfe,1,male,conservative,48,3,0,0,0,,
-cc1ae2ef-bf24-4351-b42c-ddbea4c4d7d6,Robert Buckland,1,male,conservative,45,3,0,0,0,,
-8b42b57e-114b-4d26-a3b8-35c119185fcd,David T. C. Davies,1,male,conservative,43,8,0,0,0,,
-dcf83408-2141-4326-bae5-7d48d9e71f6a,Margot James,1,female,conservative,56,3,0,0,0,,
-7bf44e37-b4f8-4e3e-b8f3-d69057e71489,Richard Shepherd,1,male,conservative,71,34,0,0,0,,
-bf9a7c48-1787-4e26-bf6f-bcdc40f4ed76,Kwasi Kwarteng,1,male,conservative,38,3,0,0,1,African,African
-249a7b78-c4e1-42c7-9e8e-cd035902c431,Stephen Twigg,1,male,labourco-operative,47,16,0,1,0,,
-150dd3ad-d13e-468f-b9a5-b0ee4b5411bf,Anna Sourby,0,female,conservative,57,3,1,0,0,,
-10e4c7d6-349b-4d0c-8366-481dbe6c9485,Lucy Powell,1,female,labourco-operative,39,1,0,1,0,,
-7bc6a9e4-5bcc-4c59-9828-84732d165b2e,David Ruffley,1,male,conservative,51,16,0,0,0,,
-5de6989e-944d-4bd5-be74-d010ae6316af,John Leech,1,male,liberal-democrat,42,8,0,0,0,,
-ea06007e-372a-4def-8516-17686652a334,Stephen McPartland,1,male,conservative,37,3,0,0,0,,
-d0e0f592-3578-49aa-aa20-41f73e3fb7ea,Jeremy Corbyn,1,male,labour,64,30,0,0,0,,
-634d16b3-7c37-440c-b033-8f58e9a98cfa,John Pugh,1,male,liberal-democrat,65,12,0,0,0,,
-166f4f53-c421-40b1-aa62-10e3a206728b,Grant Shapps,1,male,conservative,45,8,1,0,0,,
-02571a0d-b8ef-4450-af30-0f06727331ec,Pat McFadden,1,male,labour,48,8,0,0,0,,
-0f617c11-f463-4b85-b4ef-5675d21e0955,John Baron,1,male,conservative,54,12,0,0,0,,
-e09079a7-6609-4fe8-93b4-bd499637e130,Adam Afriyie,1,male,conservative,48,8,0,0,1,White and Black African,White and Black African
-4d569089-2d17-4f8b-bd9a-5e751959dee7,Chi Onwurah,1,female,labour,48,3,0,1,1,White and Black African,White and Black African
-309239d4-bba8-4ea3-9ec2-c34cb99f7a9f,Dave Watts,1,male,labour,62,16,0,0,0,,
-22e0d72d-135d-4c62-8444-6d00478f03a3,Emma Lewell-Buck,1,female,labour,35,0,0,0,0,,
-51200a40-8eed-434b-b488-0deec4196e4e,Paul Uppal,1,male,conservative,46,3,0,0,1,Sikhs of East African,Indian
-7792da6d-e9cb-4489-a7f7-01fbc3821d7b,David Hanson,1,male,labour,56,21,0,1,0,,
-ac0af147-f8fc-46aa-89ff-efb649e07172,Bob Russell,1,male,liberal-democrat,67,16,0,0,0,,
-74653615-32e9-49d8-968c-b456d5371ebc,John Mann,1,male,labour,54,12,0,0,0,,
-509c288f-d211-422b-8874-0256e18cad2c,Theresa Villiers,1,female,conservative,45,8,1,0,0,,
-5a34ec18-6a3d-47a5-958a-45cffb5b6676,Graeme Morrice,1,male,labour,54,3,0,0,0,,
-6ffbe235-2164-4d2c-9bf3-95a0df477f01,David Laws,1,male,liberal-democrat,48,12,1,0,0,,
-5b3832c0-204a-40ca-a2c9-b0d336c02e0d,Kate Green,1,female,labour,53,3,0,1,0,,
-ca9636b5-d14d-4219-ba27-84ec5a7f17f1,Mark Hoban,1,male,conservative,49,12,0,0,0,,
-24edfa54-41b2-4518-a16d-f084f09330c8,Gisela Stuart,1,female,labour,58,16,0,0,0,,
-4a75ad56-87ec-4403-9191-3a5c563a5bd7,Karen Lumley,1,female,conservative,49,3,0,0,0,,
-8a7d21e4-45c5-4183-a0f3-a7457116a2d1,Alun Cairns,1,male,conservative,43,3,0,0,0,,
-9c85901a-18bc-40f7-8423-71f3e1411b2a,Gareth Thomas,1,male,labourco-operative,46,16,0,1,0,,
-29f4f628-260c-4418-971d-2a92859e5c05,Mark Field,1,male,conservative,49,12,0,0,0,,
-f6d88867-c9b8-4a00-81a0-3f8ca5cc2d45,Alex Cunningham,1,male,labour,58,3,0,0,0,,
-12c8177c-dfa3-433f-978b-e46a89d4d3ae,Jonathan Ashworth,1,male,labourco-operative,35,2,0,1,0,,
-73262390-0df5-4436-8347-cb8546388a8f,Charles Walker,1,male,conservative,46,8,0,0,0,,
-4441ef84-830e-4945-bb94-121cbf151b3b,Vince Cable,1,male,liberal-democrat,70,16,1,0,0,,
-4d402af3-b527-45fb-bb86-b8626430b7b8,Greg Hands,1,male,conservative,48,8,1,0,0,,
-fd3f4348-2f4d-4da2-9928-78ef403d1d11,",George Howarth",1,male,labour,64,27,0,0,0,,
-514a0643-a315-4e37-bf06-4ac7b060f270,Dominic Grieve,1,male,conservative,57,16,1,0,0,,
-3879b6fc-76b7-498e-867b-55500d8ed286,Andy McDonald,1,male,labour,55,1,0,0,0,,
-c9a0c3e7-3fb5-4f4c-91f1-8a59a420aa5e,Adrian Bailey,1,male,labourco-operative,68,13,0,0,0,,
-93bdd390-fab0-419c-a30b-5958fea5de21,Stephen Mosley,1,male,conservative,41,3,0,0,0,,
-1eac4422-edd6-4518-9cd3-08cbc0e6aa59,Owen Paterson,1,male,conservative,57,16,1,0,0,,
-8cc4409c-3fcb-494e-a270-57cf95d6673f,Stephen Barclay,1,male,conservative,41,3,0,0,0,,
-9cb1b3a1-8db2-4005-97c3-76d8a4dc45c3,Steve Webb,1,male,liberal-democrat,48,16,1,0,0,,
-7f7dcec5-8695-4b06-809f-ff51d98877d8,Michael Meacher,1,male,labour,74,43,0,0,0,,
-61e6b604-8021-4f23-96fe-39002f901c55,Sarah Newton,1,female,conservative,52,3,0,0,0,,
-4b798a99-47dd-401f-b4ff-7480910483bd,Sarah Champion,1,female,labour,44,1,0,0,0,,
-cf2c31cd-3f13-4aea-a55e-e022c7f3039e,Christopher Chope,1,male,conservative,66,30,0,0,0,,
-1748dfbe-822c-438d-8983-5beaff89f40a,Graham Stringer,1,male,labour,63,16,0,0,0,,
-afd1b17c-a54f-4d55-8f55-b0ed644781f3,Ben Gummer,1,male,conservative,35,3,0,0,0,,
-89f4232b-c596-4e66-b599-b5a753fe4f82,Jack Lopresti,1,male,conservative,44,3,0,0,0,,
-f7c0c6c5-b881-4815-ae29-c476494992cd,Jason McCartney,1,male,conservative,46,3,0,0,0,,
-6dda191c-7471-409d-a254-4f229ef684c6,Bob Blackman,1,male,conservative,57,3,0,0,0,,
-b7a96c20-8f4d-4827-8b6a-f8e24c9d0ae0,Tony Cunningham,1,male,labour,61,12,0,0,0,,
-1a69ee3e-f193-42f5-8da3-ae8a4a6d4aa5,John McDonnell,1,male,labour,62,16,0,0,0,,
-2ac22233-f18b-4d08-9104-47dc9f6974b7,Mike Thornton,1,male,liberal-democrat,61,0,0,0,0,,
-a9d203b3-10f7-41e5-b0f2-94afaaa3bf41,John Woodcock,1,male,labourco-operative,34,3,0,0,0,,
-6b49844f-f71d-46f9-a704-c639c2d8ec0e,David Heyes,1,male,labour,67,12,0,0,0,,
-a4fbf875-fd2e-42bf-a02e-757246b50f10,Paul Flynn,1,male,labour,78,26,0,0,0,,
-481a89bb-a56b-484a-bbd2-c11126acd610,Rosie Cooper,1,female,labour,63,8,0,0,0,,
-9a325a73-0f25-4be0-8bfa-e0c495b6f2c5,Caroline Flint,1,female,labour,52,16,0,1,0,,
-708dc57b-4629-4942-b610-fe05c52bb795,Madeleine Moon,1,female,labour,63,8,0,0,0,,
-eeaa59eb-d9df-4780-9dd0-a0a887848c89,Kate Hoey,1,female,labour,67,24,0,0,0,,
-c6e09c2d-40c8-4fee-8b64-c4dfa10ee38f,Daniel Kawczynski,1,male,conservative,42,8,0,0,0,,
-83bb842f-324e-4643-89c6-840b87259f32,Ian Lucas,1,male,labour,53,12,0,1,0,,
-83c13d58-ea7d-42c2-bd37-ad193c9ca00b,Karen Buck,1,female,labour,55,16,0,0,0,,
-e174ecb6-08ae-4002-afb1-985092ca52a8,Ian Lavery,1,male,labour,51,3,0,0,0,,
-bef17b42-7ddb-47e2-bffe-e4d46822dfbd,Jim McGovern,1,male,labour,57,8,0,0,0,,
-f5f069df-c60b-4cca-8414-027c9e02d769,Nick Clegg,1,male,liberal-democrat,47,8,1,0,0,,
-6235fe31-a4be-4307-bc3f-248c58c7d1a7,Hywel Francis,1,male,labour,67,12,0,0,0,,
-3b81ff9a-9550-4f90-b2ee-45bef1f212e8,Nadhim Zahawi,1,male,conservative,46,3,0,0,1,Kurdish,Other ethnic group
-234ac83e-4b22-4157-a32f-acce2d68df3a,Dawn Primarolo,1,female,labour,59,26,0,0,0,,
-7fe9e2bc-8ebe-4dd9-9eeb-5a73263feaf2,Hazel Blears,1,female,labour,57,16,0,0,0,,
-153ff790-1a0f-4298-90df-3c71708ad54f,Nigel Mills,1,male,conservative,39,3,0,0,0,,
-250156fc-8a6d-4945-803f-31eb324aff3c,Keith Vaz,1,male,labour,57,26,0,0,1,Indian,Indian
-29aa8774-ba80-409c-a2c8-1830d1076db2,Angela Watkinson,1,female,conservative,72,12,0,0,0,,
-6708cd85-0c00-46fd-8109-cd3fae02545f,Vernon Coaker,1,male,labour,60,16,0,1,0,,
-393fb4c3-0951-4a68-9f39-0bd1259e4cb7,Tim Farron,1,male,liberal-democrat,43,8,0,0,0,,
-77703884-26c0-4da7-9144-636f933ed022,Jenny Chapman,1,female,labour,40,3,0,1,0,,
-a7f0a4e6-ce12-4263-ac2a-8ab83e9739d3,Graham Brady,1,male,conservative,46,16,0,0,0,,
-4ab4c765-25ce-4a2b-b521-da28012236d3,Mike Kane,1,male,labour,45,0,0,0,0,,
-8dc8feb5-ffd6-444a-9744-cd4429c1795c,Jesse Norman,1,male,conservative,51,3,0,0,0,,
-a12df9f9-57e8-4544-b0d7-77ce8497dca8,Stella Creasy,1,female,labourco-operative,36,3,0,1,0,,
-b51bbd80-09fb-4928-a7ef-16b462b9545f,Paul Beresford,1,male,conservative,67,21,0,0,0,,
-45e9b82d-1955-44d7-b0b2-f8e081e7d5c8,Robert Syms,1,male,conservative,57,16,0,0,0,,
-19ef96d4-962a-4244-a77d-f2c0b47b82e0,Fiona Mactaggart,1,female,labour,60,16,0,0,0,,
-faf9644d-c4b7-4bf6-99f8-64bbebec0000,Rushanara Ali,1,female,labour,38,3,0,1,1,Bangladesh,Bangladesh
-f1d20f16-4850-468b-acf9-e41c789f78b7,Alison McGovern,1,female,labour,33,3,0,1,0,,
-245968e3-b37c-48d8-83ce-e75d43eaf63e,Stephen Timms,1,male,labour,58,19,0,1,0,,
-eab527c8-fd11-4147-b06c-26c8cd26d50c,Andrew Murrison,1,male,conservative,52,12,1,0,0,,
-da8437ee-ca8c-43f7-b72a-8d6446860dca,David Heath,1,male,liberal-democrat,59,16,0,0,0,,
-b82598e9-4d7c-4a63-9326-875823160a0a,Simon Danczuk,1,male,labour,47,3,0,0,0,,
-d7b21f1a-859f-42c0-b312-9cf49a8cf810,Gerald Kaufman,1,male,labour,83,43,0,0,0,,
-f90ef47b-c154-4bdc-af7c-ecebc1383eee,Meg Hillier,1,female,labourco-operative,44,8,0,0,0,,
-c31db300-fc3c-41ea-bc2e-c954bc15745c,Ian Austin,1,male,labour,48,8,0,0,0,,
-0d5db2c5-773d-4d63-88c4-6a0e9c888873,David  Blunkett,1,male,labour,66,26,0,0,0,,
-187b8099-5df1-4b23-bf2a-9742104f438f,Gerald Howarth,1,male,conservative,66,30,0,0,0,,
-6778cd51-328c-4b2a-9aea-5006f2f2fb49,Tracey Crouch,1,female,conservative,38,3,0,0,0,,
-050b8e6e-9e83-4e85-8653-4ba6a5f93d66,Pat Glass,1,female,labour,56,3,0,0,0,,
-a4f50182-d40c-4b1b-92c6-d9a2f126d9ab,Douglas Carswell,1,male,ukip,42,8,0,0,0,,
-8e4c4797-e501-4562-9465-25c62936b4c4,Lilian Greenwood,1,female,labour,47,3,0,1,0,,
-8d0fe78e-0c69-44f1-abaa-8aa498f926ec,Anne Marie Morris,1,female,conservative,56,3,0,0,0,,
-bad07718-a87b-4fa3-b865-d0a1c9f10f7d,Lindsay Roy,1,male,labour,65,5,0,0,0,,
-5f4a3ae9-0602-40c0-8045-ab907bfd0337,David Winnick,1,male,labour,80,47,0,0,0,,
-e6241e32-41e5-4a37-9b02-d2f10cfb51a6,Gordon Birtwistle,1,male,liberal-democrat,70,3,0,0,0,,
-ecfaf573-6f02-46e0-aecb-829a81ca1a00,Glyn Davies,1,male,conservative,69,3,0,0,0,,
-24f8e639-37fe-4521-a19e-6bcc0cb55f3c,Anne McGuire,1,female,labour,64,16,0,0,0,,
-c6c1a0e6-1d18-433c-a225-f0673c923e15,Stephen Pound,1,male,labour,65,16,0,1,0,,
-dc191a69-dce8-4faa-8926-d7d3a6bb5723,Bob Steart,0,male,conservative,64,3,0,0,0,,
-6541f391-b348-4591-a261-f5ed628e7e03,Tessa Jowell,1,female,labour,66,21,0,0,0,,
-e88fc8ab-06a9-4601-8d79-d03bb0919068,Angus Robertson,1,male,scottish-national-party,44,12,0,1,0,,
-8869fbe7-8a02-45ba-a7b1-1222a0ed8403,David Davis,1,male,conservative,65,26,0,0,0,,
-57c3e506-ebee-4d6c-afc8-bba0133e6ed5,Clive Betts,1,male,labour,64,21,0,0,0,,
-5acec5d9-cf20-48f4-892e-017816d77293,Bob Ainsworth,1,male,labour,61,21,0,0,0,,
-67ef3e21-d2e4-4901-9119-72407e047233,Tom Harris,1,male,labour,49,12,0,0,0,,
-9a36f89e-2430-46fc-8929-4a8401691286,David Mundell,1,male,conservative,51,14,1,0,0,,
-1171194d-3997-4cd1-b859-9e8efaaaa534,Robert Halfon,1,male,conservative,44,3,0,0,0,,
-83333279-b6f1-4052-bb61-7441fe52f06a,Rehman Chishti,1,male,conservative,35,3,0,0,1,Pakistani,Pakistani
-3e6925c9-85a4-4805-b448-13f78ee38673,Gloria De Piero,1,female,labour,41,3,0,1,0,,
-acda652e-e45a-4e5d-8a58-be92701d697f,Iain McKenzie,1,male,labour,54,2,0,0,0,,
-5d42993c-cdf3-49a2-8bb6-733a6aeda2fb,Laura Sandys,1,female,conservative,49,3,0,0,0,,
-319aff12-5850-4bc3-a4d9-ad9945a2f39b,Adrian Sanders,1,male,liberal-democrat,54,16,0,0,0,,
-65debd30-e099-4df8-9320-ae6abd48ea16,Alistair Carmichael,1,male,liberal-democrat,48,12,1,0,0,,
-044575b3-8826-48e3-a053-069dc1e8298c,Gordon Marsden,1,male,labour,60,16,0,1,0,,
-8d2dba2b-6881-47a1-8fec-562179e686a2,Bill Esterson,1,male,labour,47,3,0,0,0,,
-36be8f2b-ea28-40c0-9dc9-03df32857324,Louise Ellman,1,female,labourco-operative,68,16,0,0,0,,
-353d695a-966f-49b1-b3af-ffc6ce627f5d,Stephen Hammond,1,male,conservative,51,8,1,0,0,,
-e6f82796-6e18-4e5c-a29b-d3bf97661066,Norman Baker,1,male,liberal-democrat,56,16,1,0,0,,
-9e0b1dd0-623e-45c7-b0ec-2b5d9b6c1918,Simon Hughes,1,male,liberal-democrat,62,30,1,0,0,,
-b334c087-9c78-4a07-8334-afca3ce94e21,Katy Clark,1,female,labour,46,8,0,0,0,,
-c549a94b-4738-4a35-80c1-31943094e803,Sharon Hodgson,1,female,labour,47,8,0,1,0,,
-3c805a64-2049-41fa-b454-7aa60d7bd4f3,Ann Coffey,1,female,labour,67,21,0,0,0,,
-7707fb8f-bf74-48b7-b73b-55fc551e92c1,George Galloway,1,male,respect,59,26,0,0,0,,
-af2dfa5a-92c4-40ab-957a-e35e3c0e098e,Cathy Jamieson,1,female,labour,57,3,0,1,0,,
-d265eae6-2641-4c35-86b4-525557e91ea0,Khalid Mahmood,1,male,labour,52,12,0,0,1,Pakistani,Pakistani
-b95edc33-fa1e-4b51-aae1-2c41e961e83a,Helen Jones,1,female,labour,59,16,0,1,0,,
-e7fd6740-648e-4acb-be86-8c9214d35f70,Steve McCabe,1,male,labour,58,16,0,1,0,,
-9b228ac6-2405-472f-9351-960be536067b,Jamie Reed,1,male,labour,40,8,0,1,0,,
-b9a5891f-6bf2-4410-b37c-f2151bb26ac3,Sarah Teather,1,female,liberal-democrat,39,10,0,0,0,,
-7593c51f-f12c-4b65-8299-79c1df68a2ee,SiÃ¢n C. Jame,0,female,labour,54,8,0,0,0,,
-b7258066-47bf-428e-800b-ae9e15c8c27e,Chris Leslie,1,male,labourco-operative,41,16,0,1,0,,
-fdb7b487-0685-480c-8340-3a193ddc4d76,Teressa Pearce,1,female,labour,59,3,0,0,0,,
-481160b6-994d-4fe8-a312-b28c7ed7e21d,Mark Hendrick,1,male,labourco-operative,55,13,0,0,1,White and Black African,White and Black African
-9490e688-6578-4a6b-9ecb-949da9611df7,Angela Smith,1,female,labour,52,8,0,1,0,,
-f32fbc93-98a4-44a5-82de-aea07a8094cb,Nick Smith,1,male,labour,54,3,0,0,0,,
-d2dea901-f7ab-419e-945f-9a7544678efe,Jane Ellison,1,female,conservative,49,3,1,0,0,,
-84773572-d4b2-4d05-ac22-54de551064d6,Jenny Willott,1,female,liberal-democrat,39,8,1,0,0,,
-0592cc7e-bfd0-4a8f-9d88-dcbfecb146d0,Alan Reid,1,male,liberal-democrat,59,12,0,0,0,,
-d158aff6-dca6-4c76-a012-bb4a830e2049,Mike Gapes,1,male,labourco-operative,61,21,0,0,0,,
-5dd9bd3b-b4a0-44ea-af9d-03aeef7e4296,Tom Blenkinsop,1,male,labour,33,3,0,1,0,,
-89864bbf-b491-41c3-b1fa-bd8b9d0e6bc9,Tom Clarke,1,male,labour,73,31,0,0,0,,
-8b3813ba-179c-4eba-8b22-3573ec11050f,Anas Sarwar,1,male,labour,30,3,0,0,1,Anglo-Somali,White and Black African
-2ba3d9c5-ad63-4aba-b61d-e00a28e9e7d6,Elfyn Llwyd,1,male,plaid-cymru,62,21,0,1,0,,
-4dfd342b-efe1-4d45-8a13-7a81513f877f,Nick Harvey,1,male,liberal-democrat,52,21,0,0,0,,
-15e8ec17-f95e-4576-97ab-501568a9a336,Eilidh Whiteford,1,female,scottish-national-party,44,3,0,1,0,,
-898c9849-e98e-40a1-82ae-a5a6665c1b5d,Lyn Brown,1,female,labour,53,8,0,1,0,,
-4ffadd2a-9b83-4f9d-b4b3-f0497c611e85,Dennis Skinner,1,male,labour,81,43,0,0,0,,
-8397fe68-e3f8-4f6a-bf96-2fd74859b9b7,John Cryer,1,male,labour,49,16,0,0,0,,
-b303094e-e6c1-45e4-962e-464ae22a555c,Clive Efford,1,male,labour,55,16,0,1,0,,
-9505894c-676b-4114-bec2-2f5f92d0bfc5,Jon Cruddas,1,male,labour,51,12,0,1,0,,
-1c2760f1-0d8f-4357-bb6c-4e617d35ec08,Maria Eagle,1,female,labour,52,16,0,1,0,,
-5e622c66-aaf5-44dd-83f6-4a0fa7b1d4c5,Nick Hurd,1,male,conservative,51,8,1,0,0,,
-32a649b0-4e0d-441b-8e46-cbb9e78084d1,Gavin Shuker,1,male,labourco-operative,32,3,0,1,0,,
-143ea45d-404b-4248-b327-1f052c801536,Fiona Bruce,1,female,conservative,56,3,0,0,0,,
-4ae8682a-726d-4641-b579-4ed1972b9e30,Angus Brendan MacNeil,1,male,scottish-national-party,43,8,0,1,0,,
-fef022ce-f2d6-4830-a4da-d059454b0451,Virendra Sharma,1,male,labour,66,6,0,0,1,Indian,Indian
-3ddab305-0ca3-41da-baa8-edc5beebaa8b,Grahame M. Morris,1,male,labour,52,3,0,0,0,,
-6374ed2e-e07f-447c-ba00-fc139996a5ac,Margaret Curran,1,female,labour,55,3,0,1,0,,
-d8a5c6af-1f95-4950-b03c-33069604ef23,Sadiq Khan,1,male,labour,43,8,0,1,1,Pakistani,Pakistani
-221f0507-8cde-4fe3-9136-c04a73975a9c,Nick de Bois,1,male,conservative,54,3,0,0,0,,
-f9b9309e-bacb-43e5-8a37-eddd62230f5d,Ann Clwyd,1,female,labour,76,29,0,0,0,,
-b79c5be4-8a0c-4827-bf12-7dd644a43439,David Crausby,1,male,labour,67,16,0,0,0,,
-1f79103c-ec03-4265-957d-73d7a3307753,Malcolm Rifkind,1,male,conservative,67,39,0,0,0,,
-b1b319d0-6482-45dd-83cc-d1cab5138f2a,Andrew Miller,1,male,labour,64,21,0,0,0,,
-7fd98d23-6537-447c-b3e2-a369d424d5f8,Frank Field,1,male,labour,71,34,0,0,0,,
-d241e2a1-ada4-4749-a5eb-5b20bac41651,David Burrowes,1,male,conservative,44,8,0,0,0,,
-f70ad22a-c234-40f4-9ac5-46318ff081ee,Karl Turner,1,male,labour,42,3,0,1,0,,
-7f40e896-bd3b-441e-8fd5-4f61d7224c31,Tom Watson,1,male,labour,47,12,0,0,0,,
-cf326098-8f9e-4adf-bf7b-088b73732860,Andrew Love,1,male,labour,64,16,0,0,0,,
-f2b39816-81f2-4d17-8c58-56ec25344c90,Pamela Nash,1,female,labour,29,3,0,0,0,,
+ep_id,mpName,correctly_spelled,mp_gender,mp_party,mp_age,mp_tenure,mp_gov,mp_opp,mp_bame,mp_ethnicity_closest_to_self_described,mp_ethnicity_match_bes,minority_religion_white
+8757f7ba-6d65-445a-b162-08017ba7654a,Graham Evans,1,male,conservative,50,3,0,0,0,,,Out of scope
+d322deb0-356e-49c5-b8ca-621691a0590a,Sam Gyimah,1,male,conservative,37,3,1,0,1,Black African,Black African,Out of scope
+2e1e85f4-faf9-4cca-8b94-bae0565fb57e,Mark Simmonds,1,male,conservative,49,12,1,0,0,,,Out of scope
+bbb08548-aaee-4d36-864b-e3bbd76beb10,Alan Whitehead,1,male,labour,63,16,0,0,0,,,Out of scope
+e38334f8-2c69-44d7-aa9c-9d1039d98e44,Bill Wiggin,1,male,conservative,47,12,0,0,0,,,Out of scope
+36c6ab70-1e3a-414c-b99e-7b1c84169d9f,Jonathan Evans,1,male,conservative,63,21,0,0,0,,,Out of scope
+e3a5f695-9c50-4d35-b05c-69672eca5af5,Brian H. Donohoe,1,male,labour,65,21,0,0,0,,,Out of scope
+8ab6a9ba-4ba2-4695-ba20-4064a839c0d7,Julian Smith,1,male,conservative,42,3,0,0,0,,,Out of scope
+cd4c9341-4471-4125-a78e-13f8ffba4d72,Paul Murphy,1,male,labour,65,26,0,0,0,,,Out of scope
+e984ff42-3c14-4ce4-9423-d042ed40d20a,Jonathan Djanogly,1,male,conservative,48,12,0,0,0,,,Jewish
+e54d243b-5ed0-4eb5-b7c8-6e0d1bb290ae,Edward Timpson,1,male,conservative,40,5,1,0,0,,,Out of scope
+725dc315-d64c-4a66-8c9a-6a8e36c6170f,Susan Elan Jones,1,female,labour,45,3,0,1,0,,,Out of scope
+edd46a8a-7191-46e7-ae03-d469b97ee9e7,Iain Stewart,1,male,conservative,41,3,0,0,0,,,Out of scope
+328e0940-5503-4634-81d5-11f07a68ea17,Damian Collins,1,male,conservative,39,3,0,0,0,,,Roman Catholic
+809a2a10-d0c8-4af6-9d90-fb76b9ef81d0,Philip Dunne,1,male,conservative,55,8,1,0,0,,,Out of scope
+10fdca28-0ac2-486a-ac61-bdf0eee59baf,Amber Rudd,1,female,conservative,50,3,1,0,0,,,Out of scope
+f2e94257-a37d-4cec-935d-8f30b9f589b7,Valerie Vaz,1,female,labour,59,3,0,0,1,Indian,Indian,Roman Catholic
+8af464cc-6c04-4e8a-b2dd-2189927a0879,Eric Joyce,1,male,labour,53,13,0,0,0,,,Out of scope
+7338a938-d216-4a0d-957f-e79ddbae74df,Sarah Wollaston,1,female,conservative,51,3,0,0,0,,,Out of scope
+63c6eb91-8f08-4150-9319-89de2391f778,Richard Benyon,1,male,conservative,53,8,0,0,0,,,Out of scope
+e259a414-eff4-4bc4-8f63-8563e19aed59,Andrew Bingham,1,male,conservative,51,3,0,0,0,,,Out of scope
+7b17e1f5-c249-43f9-97ac-7182315eadb1,Jeremy Browne,1,male,liberal-democrat,43,8,0,0,0,,,Out of scope
+a3bb0d9d-9743-4a2b-853d-16eb0e90f0a0,Julie Hilling,1,female,labour,58,3,0,1,0,,,Out of scope
+6a96c3e2-c057-4bff-8d51-9df52706a58f,Andrew Mitchell,1,male,conservative,57,26,0,0,0,,,Out of scope
+e7e06020-d834-4c95-8cdc-d611325d78a3,Simon Hart,1,male,conservative,50,3,0,0,0,,,Out of scope
+8f95c9e7-b3ce-418d-8bf4-190c66a2c421,Mark Tami,1,male,labour,51,12,0,1,0,,,Out of scope
+18a9f1f8-ba92-45a9-86f3-e651b8ae020e,Matthew Hancock,1,male,conservative,35,3,1,0,0,,,Out of scope
+9b9a9e26-6622-4e3d-8820-44497471a151,Harriett Baldwin,1,female,conservative,53,3,0,0,0,,,Out of scope
+51b8d916-1441-4f35-a290-fb164f7a5ca7,Nia Griffith,1,female,labour,57,8,0,1,0,,,Out of scope
+2235c51b-63c8-4261-be64-87cbce9a3011,Yvette Cooper,1,female,labour,44,16,0,1,0,,,Out of scope
+376383ea-f61b-41dc-8189-55d17d50b719,George Hollingbery,1,male,conservative,50,3,0,0,0,,,Out of scope
+3646a9c1-f54c-41bc-9981-8ad5698e8120,Edward Vaizey,1,male,conservative,45,8,1,0,0,,,Out of scope
+f7d231bd-b934-4fc2-95ea-575599e4b017,Angela Eagle,1,female,labour,52,21,0,1,0,,,Out of scope
+48e07428-aff9-4cf1-ad51-29490b85d907,Brandon Lewis,1,male,conservative,42,3,1,0,0,,,Out of scope
+14c3d819-a56c-4fa1-81c6-02f143fbec4e,Patrick Mercer,1,male,conservative,57,12,0,0,0,,,Out of scope
+74c8931f-8a8d-48a8-b9f8-2d4f2aec32a0,Andrea Leadsom,1,female,conservative,50,3,0,0,0,,,Out of scope
+aff356e2-41ea-43a5-a537-690fdfc563d6,Hugh Bayley,1,male,labour,62,21,0,0,0,,,Out of scope
+073eaa7a-f3a1-4632-897b-24dc8ed3eec5,Lorraine Fullbrook,1,female,conservative,54,3,0,0,0,,,Out of scope
+1499f26e-8607-4ec3-a703-31f99d002fc8,Liz Kendall,1,female,labour,42,3,0,1,0,,,Out of scope
+dd13506c-6dee-4255-a05f-d63903c51588,Jo Swinson,1,female,liberal-democrat,33,8,0,0,0,,,Out of scope
+b854bd7d-a11d-4897-8a6d-ca183d66a4ca,Iain Duncan Smith,1,male,conservative,59,21,1,0,0,,,Roman Catholic
+20e47013-df7b-45e4-a846-77651c1a4ec1,David Nuttall,1,male,conservative,51,3,0,0,0,,,Out of scope
+4cbb8157-7c61-4fb1-8340-98177e3d08e5,Mark Francois,1,male,conservative,48,12,1,0,0,,,Out of scope
+7df1817e-ff99-4429-ac3a-16f7ad83ab12,Geoffrey Robinson,1,male,labour,75,37,0,0,0,,,Out of scope
+82ea1d8e-cfa2-4a17-901f-c187abebc3cb,David Jones,1,male,conservative,61,8,1,0,0,,,Out of scope
+486e3536-3c99-41ed-ac0d-bd0210d00dd2,John Spellar,1,male,labour,66,31,0,1,0,,,Out of scope
+e6cb64f8-adfc-4df0-ad4b-acd5ebcce164,Frank Roy,1,male,labour,55,16,0,0,0,,,Out of scope
+44fea536-808d-4c6a-9996-c4c8b765f7c2,Margaret Beckett,1,female,labour,71,39,0,0,0,,,Out of scope
+465244d6-5321-434a-9ff5-7b836f750a96,Chuka Umunna,1,male,labour,35,3,0,1,1,White and Black African,White and Black African,Out of scope
+8276b561-cb04-4c9c-bcd6-a0d7bbd44514,Eric Ollerenshaw,1,male,conservative,63,3,0,0,0,,,Out of scope
+767250a1-8dda-4c7c-b17c-8e0de6c731f2,Justine Greening,1,female,conservative,44,8,1,0,0,,,Out of scope
+f907367c-2241-4d4b-96a3-9271e6218c86,Maria Miller,1,female,conservative,49,8,1,0,0,,,Out of scope
+9bba9ece-5f93-441c-81ff-d98b86b4bd1f,Julian Sturdy,1,male,conservative,42,3,0,0,0,,,Out of scope
+66a90126-b8b6-497c-8891-b24203a6589d,Simon Reevell,1,male,conservative,47,3,0,0,0,,,Out of scope
+0520e866-da50-4c0c-89f4-c85506e501a0,James Duddridge,1,male,conservative,42,8,0,0,0,,,Out of scope
+e549cc61-81f3-4fa9-b528-61e73d7794b9,Simon Kirby,1,male,conservative,49,3,0,0,0,,,Out of scope
+22c9140c-2f66-423f-bf2d-7efc56e74525,John Hemming,1,male,liberal-democrat,53,8,0,0,0,,,Out of scope
+18da8cfd-c352-425b-aebf-25ac6032b9fb,Shailesh Vara,1,male,conservative,53,8,1,0,1,Indian,Indian,Out of scope
+e6b4c181-4202-481c-84da-a3b0c4c0ce42,Dan Rogerson,1,male,liberal-democrat,38,8,1,0,0,,,Out of scope
+8364c43c-2816-49c9-9a93-1b27e31a5f01,Edward Leigh,1,male,conservative,63,30,0,0,0,,,Roman Catholic
+4bee9459-4d49-4453-a70d-1e58446856ea,Ben Wallace,1,male,conservative,43,14,0,0,0,,,Out of scope
+168cb977-e5df-4cb2-865f-84d51687502e,Jake Berry,1,male,conservative,35,3,0,0,0,,,Out of scope
+1c0b9247-9666-4656-bed4-9c845de1f6cf,Oliver Colvile,1,male,conservative,54,3,0,0,0,,,Out of scope
+6a505ea4-70aa-4398-840f-5d068afd22a2,Peter Lilley,1,male,conservative,70,30,0,0,0,,,Out of scope
+7e632a66-b4a1-47e8-99b0-88cdb1821f8a,Anne Begg,1,female,labour,58,16,0,0,0,,,Out of scope
+b3165cb8-71de-4c87-87f9-3662126a2c66,Fiona O'Donnell,1,female,labour,54,3,0,0,0,,,Out of scope
+f78168c2-730b-44c1-9e64-b3c158e046aa,Michael Fabricant,1,male,conservative,63,21,0,0,0,,,Jewish
+3c1596f7-645e-4162-b89d-4b08affa0954,Robert Walter,1,male,conservative,65,16,0,0,0,,,Out of scope
+4c2cb6c9-d832-4903-b07d-db95fcaef8c3,Oliver Letwin,1,male,conservative,57,16,1,0,0,,,Jewish
+5640283f-e650-4c6b-a274-79d3c006f5da,Eleanor Laing,1,female,conservative,56,16,0,0,0,,,Out of scope
+95415bba-6ab9-423f-b717-479672164cda,Stephen O'Brien,1,male,conservative,56,14,0,0,0,,,Out of scope
+3ead5f10-a485-4286-a42d-d16cee176e00,Mike Weir,1,male,scottish-national-party,56,12,0,1,0,,,Out of scope
+3fdc4150-5805-4039-8fa9-a5de6e229bd0,Lisa Nandy,1,female,labour,34,3,0,1,1,White and Indian,White and Asian,Out of scope
+c09386a3-5715-4bc8-9850-7344e2d6be0b,Gavin Williamson,1,male,conservative,37,3,0,0,0,,,Out of scope
+139a31fb-787c-4e85-bdfc-15425c334e0f,Alan Beith,1,male,liberal-democrat,70,40,0,0,0,,,Out of scope
+614a9faf-ea70-4302-8a29-fc3b20bf000e,Stephen Lloyd,1,male,liberal-democrat,56,3,0,0,0,,,Out of scope
+54339630-9cd2-440b-8f8b-7b97bc20e53d,Peter Bottomley,1,male,conservative,69,38,0,0,0,,,Methodist
+33dfbf31-d637-4780-9832-58215f3b737d,Thomas Docherty,1,male,labour,39,3,0,1,0,,,Out of scope
+db9c7390-3ba5-4476-9315-14c693b48c99,Guy Opperman,1,male,conservative,48,3,0,0,0,,,Out of scope
+7b4736ff-605b-45fd-8569-6cdbaddefba2,Ed Balls,1,male,labour,46,8,0,1,0,,,Out of scope
+ecaccaf9-bee4-421d-863d-8478d283d34f,Geoffrey Cox,1,male,conservative,53,8,0,0,0,,,Out of scope
+5655d43c-5c72-477a-bf50-eee364c3b369,Emily Thornberry,1,female,labour,53,8,0,1,0,,,Out of scope
+b9d577bd-f12e-452c-b6de-6b39de1121f8,Wayne David,1,male,labour,56,12,0,0,0,,,Out of scope
+8be5abce-a899-446f-8b5e-59f9f519ee9b,William Hague,1,male,conservative,52,24,1,0,0,,,Out of scope
+b7a6c3b0-4902-45f5-a89b-de09a329287a,Chris White,1,male,conservative,46,3,0,0,0,,,Roman Catholic
+ea3dd95d-5e19-42d3-859a-fcb50e5ad8c5,Ian Swales,1,male,liberal-democrat,60,3,0,0,0,,,Out of scope
+1a95a1f7-e7d6-428f-9719-33105e9b63c6,Stephen Phillips,1,male,conservative,43,3,0,0,0,,,Out of scope
+97ba6c0c-9b1c-4389-a5a3-c7a6da83491e,Aidan Burley,1,male,conservative,35,3,0,0,0,,,Out of scope
+8cd520ac-9216-4f8e-a425-18ec967233b5,Roger Gale,1,male,conservative,70,30,0,0,0,,,Out of scope
+f4005293-d951-4781-9f4c-db7d0cc8a91e,Charles Kennedy,1,male,liberal-democrat,54,30,0,0,0,,,Out of scope
+548e7f10-5eb3-442a-8825-e963018d2990,Rebecca Harris,1,female,conservative,46,3,0,0,0,,,Out of scope
+d7d0b5e3-ef36-41c4-bf1a-d5d72172848e,Norman Lamb,1,male,liberal-democrat,56,12,1,0,0,,,Out of scope
+93104ebb-07ae-4041-9534-893982d1c7b6,Peter Tapsell,1,male,conservative,84,54,0,0,0,,,Out of scope
+0eb0b97e-4a72-4545-81a7-59bd4c85a9a1,Craig Whittaker,1,male,conservative,51,3,0,0,0,,,Out of scope
+5bf9e3a2-5dc4-4d86-a09f-9d89d6b610f2,David Willetts,1,male,conservative,57,21,1,0,0,,,Out of scope
+3a6f850f-f4b6-4e2f-8e5c-cbd8d9ed7ae6,Julian Lewis,1,male,conservative,62,16,0,0,0,,,Jewish
+9b8c3442-1a77-46ef-96d0-c43bed6f6007,Stephen Gilbert,1,male,liberal-democrat,37,3,0,0,0,,,Out of scope
+94d95897-e50d-437c-85c5-9b01ead07a2e,Austin Mitchell,1,male,labour,79,36,0,0,0,,,Out of scope
+66c2342d-cc10-493b-b937-468d7bbb5a91,Stephen Doughty,1,male,labourco-operative,33,1,0,1,0,,,Out of scope
+24374212-3f85-4e77-bb93-3e8e563d5995,George Eustice,1,male,conservative,42,3,1,0,0,,,Out of scope
+a9e9e4f0-50db-46ab-948f-548eb9eb2455,Dan Jarvis,1,male,labour,41,2,0,1,0,,,Out of scope
+143e9107-f2b6-4c8a-b51c-4b47647d4ef4,Mel Stride,1,male,conservative,52,3,0,0,0,,,Out of scope
+8d593d61-55bb-4b13-aae7-fe6e9040479d,Jonathan Reynolds,1,male,labourco-operative,33,3,0,1,0,,,Out of scope
+28cc5a9d-e522-4c02-87d1-2213f80d5655,Andrew Jones,1,male,conservative,50,3,0,0,0,,,Out of scope
+423db8e2-7be0-47ee-b698-2a0957d27a9d,Dominic Raab,1,male,conservative,39,3,0,0,0,,,Out of scope
+c72c9887-92f5-46c6-8d69-6210493213eb,Chris Grayling,1,male,conservative,51,12,1,0,0,,,Out of scope
+61eee60f-e4f9-456e-8327-37c37142b5cb,Francis Maude,1,male,conservative,60,30,1,0,0,,,Out of scope
+b8f57586-747b-4bfa-990c-30187a3b95f7,Greg Knight,1,male,conservative,64,30,0,0,0,,,Out of scope
+55861f11-a816-4650-b774-ba1c93247198,Alan Haselhurst,1,male,conservative,76,43,0,0,0,,,Out of scope
+636d620f-6736-480d-b5b8-3fca387dd4e2,Nicola Blackwood,1,female,conservative,34,3,0,0,0,,,Out of scope
+8b0c4c98-e88e-4887-b231-aec1a7bb63aa,Paul Farrelley,0,male,labour,51,12,0,0,0,,,Out of scope
+41342093-5665-409e-ab5c-4b93c4b47f90,Frank Doran,1,male,labour,64,26,0,0,0,,,Out of scope
+8f796b06-116d-404e-a0c8-bbfd53d90edb,John Howell,1,male,conservative,58,5,0,0,0,,,Out of scope
+a90d68cc-af1a-4fe5-9af7-09d60a75ec57,Kevin Barron,1,male,labour,67,30,0,0,0,,,Out of scope
+aa3c1dfd-9425-4262-abe6-07f7673291a3,Mark Hunter,1,male,liberal-democrat,56,8,1,0,0,,,Out of scope
+65a53c58-e44a-4ff9-bd58-07765c338820,Toby Perkins,1,male,labour,43,3,0,1,0,,,Out of scope
+cb826d12-edd0-457f-90cd-83678ce33e38,Pauline Latham,1,female,conservative,65,3,0,0,0,,,Out of scope
+55c8db96-f341-4625-93d3-d07138aed372,Jim Dowd,1,male,labour,62,21,0,0,0,,,Out of scope
+79ac228a-d986-40c5-870a-b3eed111d428,Chris Kelly,1,male,conservative,35,3,0,0,0,,,Out of scope
+09cd8b28-cbd7-446e-b204-481a6dcc6b7a,Julie Elliott,1,female,labour,50,3,0,1,0,,,Out of scope
+cbb22f79-4996-481f-ab19-425767c88a4f,Kris Hopkins,1,male,conservative,50,3,1,0,0,,,Out of scope
+2396b05f-1284-4961-aba8-36d8c288c7d3,Dai Havard,1,male,labour,63,12,0,0,0,,,Out of scope
+19385dcf-28ca-4b60-a9c9-f4832f3948ce,Joseph Johnson,1,male,conservative,42,3,1,0,0,,,Out of scope
+fde77dfc-5be9-448f-8626-7a1ca46661e6,Barbara Keeley,1,female,labour,61,8,0,0,0,,,Roman Catholic
+b205bacb-eecf-4a72-ba52-3ab330318c39,John Bercow,1,male,speaker,51,16,0,0,0,,,Jewish
+ad76754d-647b-4577-8069-f1a142706264,Catherine McKinnell,1,female,labour,37,3,0,1,0,,,Roman Catholic
+52f46312-fdb4-46e8-a62b-a77d7aae791c,Annette Brooke,1,female,liberal-democrat,66,12,0,0,0,,,Methodist
+6b6aad6b-b1fd-4c33-97e1-97b2b727be9a,John Glen,1,male,conservative,39,3,0,0,0,,,Out of scope
+95a0a7ad-14fe-449c-93a9-83f32713ef16,Stephen Williams,1,male,liberal-democrat,47,8,1,0,0,,,Out of scope
+11ee4f47-4cf7-4630-92b4-0f76e38ca918,Jim Dobbin,1,male,labour,72,16,0,0,0,,,Out of scope
+b746ce82-e2ea-4cbf-b2f3-f6e4de071ee0,Tony Baldry,1,male,conservative,63,30,1,0,0,,,Out of scope
+0f2aff09-e0a1-4964-bc55-f21946ad7696,Richard Graham,1,male,conservative,55,3,0,0,0,,,Out of scope
+cc1e9d56-73f0-440e-b20a-68612152e972,Eric Pickles,1,male,conservative,61,21,1,0,0,,,Out of scope
+e8c49ab4-99b3-4b26-87aa-344468e50884,Jeremy Hunt,1,male,conservative,47,8,1,0,0,,,Out of scope
+23d74d7d-3cdb-4e4c-bb3f-f96769998a6d,Chris Bryant,1,male,labour,52,12,0,1,0,,,Out of scope
+07779ad8-642f-4a99-89ef-ab05d7fb4b63,Andrew Turner,1,male,conservative,60,12,0,0,0,,,Out of scope
+ba1300c3-0248-46f5-8781-ecabe8dbd8b4,Luciana Berger,1,female,labourco-operative,32,3,0,1,0,,,Jewish
+b1416719-e4c2-462d-85f0-776ee1ead351,Russell Brown,1,male,labour,62,16,0,1,0,,,Out of scope
+2148a0c3-5139-4f6f-a565-f10979f1beb0,Mary Creagh,1,female,labour,46,8,0,1,0,,,Roman Catholic
+94c67f1f-5d80-488c-b963-abb89e0c7e32,Geraint Davies,1,male,labourco-operative,53,16,0,0,0,,,Out of scope
+568d99e6-67e2-42fd-af01-f955f0d891ab,Jim Cunningham,1,male,labour,72,21,0,0,0,,,Roman Catholic
+b982f099-606b-4c2e-9045-7554b651ac83,Margaret Hodge,1,female,labour,69,19,0,0,0,,,Jewish
+123a9485-d504-4016-996f-f62b921428a4,Andrew Gwynne,1,male,labour,39,8,0,1,0,,,Methodist
+1a06e628-2403-4d33-8b80-0f6dc2352cc9,Kevan Jones,1,male,labour,49,12,0,1,0,,,Out of scope
+fa46da08-852f-4a22-aa25-a102e4a592fc,James Morris,1,male,conservative,46,3,0,0,0,,,Out of scope
+57de72bd-1c1f-45f2-a00e-8d8767423bdf,David Evennett,1,male,conservative,64,8,1,0,0,,,Out of scope
+111e42f6-9a35-4646-92d4-bb8fca158d55,Michael McCann,1,male,labour,50,3,0,0,0,,,Out of scope
+78372dbe-05ee-48fa-b3d9-c936506151a6,Philip Davies,1,male,conservative,42,8,0,0,0,,,Out of scope
+127ccb5c-4161-49ad-9182-80cf1030c13b,Linda Riordan,1,female,labour,60,8,0,0,0,,,Out of scope
+25e4908f-297d-4824-ad92-58ad1f045858,Dame Joan Ruddock,1,female,labour,70,26,0,0,0,,,Out of scope
+d46c94ef-eb02-46ff-b581-3a8bb05b83c7,Phil Wilson,1,male,labour,54,6,0,1,0,,,Out of scope
+d56e93bb-d182-44e0-a706-957ae0c974da,Simon Burns,1,male,conservative,61,26,0,0,0,,,Out of scope
+be03bd61-dbe5-46ed-8423-4a2b7606bcb9,James Wharton,1,male,conservative,29,3,0,0,0,,,Out of scope
+d3edcb30-9f02-49b2-96f0-7864e3e41282,Robert Goodwill,1,male,conservative,57,8,1,0,0,,,Out of scope
+61b114a6-4465-48ba-b644-8a3971382a8b,Nicholas Soames,1,male,conservative,65,30,0,0,0,,,Out of scope
+a12f2b4a-1c75-4b3c-9671-814baef37f78,Edward Miliband,1,male,labour,44,8,0,1,0,,,Jewish
+b5e7da2e-eb53-4136-8a42-68626ea1ed11,Stephen Crabb,1,male,conservative,41,8,1,0,0,,,Out of scope
+9342a9c8-bfcb-400d-9e10-3d039537be5e,Michael Gove,1,male,conservative,46,8,1,0,0,,,Out of scope
+b1982608-092a-4cb5-88d0-93a2e513216d,Kelvin Hopkins,1,male,labour,72,16,0,0,0,,,Out of scope
+89f38eb6-dbb7-4277-975c-dc7d98a82b86,Meg Munn,1,female,labour,54,12,0,0,0,,,Methodist
+9a10f4f6-03cc-4eef-b9fe-7cc7c5629fe5,Diana Johnson,1,female,labour,47,8,0,1,0,,,Out of scope
+71eef1bd-b792-4798-afca-643690e45bd9,Diane Abbott,1,female,labour,60,26,0,0,1,Black Caribbean,Black Caribbean,Out of scope
+237e83e4-3815-4bb8-80fc-2ce83cc2290c,Ian Liddell-Grainger,1,male,conservative,54,12,0,0,0,,,Methodist
+fdac1ea6-83b3-4af4-8c5e-9a8b920d9871,Roger Godsiff,1,male,labour,67,21,0,0,0,,,Out of scope
+615124c1-8687-4ebd-be66-bd526f8e56af,Martin Horwood,1,male,liberal-democrat,51,8,0,0,0,,,Out of scope
+42fb6801-adef-4586-9220-0721ad4d5a7f,David Lammy,1,male,labour,41,13,0,0,1,African,African,Out of scope
+0d13e9d4-e38b-4651-9680-1d3b7951edb1,David Gauke,1,male,conservative,42,8,1,0,0,,,Out of scope
+0b3e4514-1198-4fbb-a272-d03ce8818cf8,Karl McCartney,1,male,conservative,45,3,0,0,0,,,Methodist
+467159f7-8497-490a-9eba-6ac2ecdf8d56,Michael Moore,1,male,liberal-democrat,48,16,0,0,0,,,Out of scope
+fab10009-38f8-4555-bcc6-d9a9cd5ab85e,Gerry Sutcliffe,1,male,labour,60,19,0,0,0,,,Out of scope
+b0e31944-e435-45b8-80a3-0fa24b15965a,Natascha Engel,1,female,labour,46,8,0,0,0,,,Out of scope
+41e4d077-ad91-40e6-93c1-4a9ab40b0660,Stewart Jackson,1,male,conservative,49,8,0,0,0,,,Out of scope
+3a20d698-05f4-4714-9e3e-3da95fd3b88c,Daniel Poulter,1,male,conservative,35,3,1,0,0,,,Out of scope
+f3098f63-f37a-4bae-98a6-3b9b642a1723,Andrew Selous,1,male,conservative,51,12,0,0,0,,,Out of scope
+b42245e6-14eb-4575-a8a0-c0c0851ed0cf,James Clappison,1,male,conservative,57,21,0,0,0,,,Out of scope
+74679ab9-0d96-43cc-b84f-bbd825e93da0,George Young,1,male,conservative,72,39,1,0,0,,,Out of scope
+c97acde1-9ada-48a3-89f3-d0edc45c6271,Gemma Doyle,1,female,labour,32,3,0,1,0,,,Out of scope
+01fbdbc4-1cf7-4da3-a91c-1df42f806716,Tom Brake,1,male,liberal-democrat,51,16,1,0,0,,,Out of scope
+484b8345-c2fa-4350-987b-2cc4f29acdc9,Seema Malhotra,1,female,labourco-operative,43,2,0,1,1,Indian,Indian,Out of scope
+125d302b-ea01-44c7-80c5-bae93f6aca9d,Jim Fitzpatrick,1,male,labour,61,16,0,0,0,,,Roman Catholic
+cf13228f-6d5d-4331-94de-7d9cb64a90fc,Stewart Hosie,1,male,scottish-national-party,51,8,0,1,0,,,Out of scope
+0887c5ac-1ea6-4f35-86f4-4b8fae339b56,Andrew Stunell,1,male,liberal-democrat,71,16,0,0,0,,,Methodist
+c6ccae62-3846-4d98-b169-9c0eee0c6371,Gareth Johnson,1,male,conservative,44,3,0,0,0,,,Out of scope
+1f8cceb7-c8df-4095-981e-e35221da8d88,Neil Carmichael,1,male,conservative,52,3,0,0,0,,,Out of scope
+853eb65f-91dc-4488-945c-88943e31b5de,Danny Alexander,1,male,liberal-democrat,41,8,1,0,0,,,Out of scope
+a5746720-c5ad-4ebf-8e43-4a1862ef272e,Andy Sawford,1,male,labour,37,1,0,1,0,,,Out of scope
+9dc473aa-264a-4bb6-b6c9-b32a572bf0df,John Robertson,1,male,labour,61,13,0,0,0,,,Out of scope
+77c9d15f-98c7-45b4-89a8-6f21ab07157d,Philip Hammond,1,male,conservative,58,16,1,0,0,,,Out of scope
+b7ab8e13-da59-40c6-a47e-79dcf209a54d,Bernard Jenkin,1,male,conservative,54,21,0,0,0,,,Out of scope
+09c9fd75-3e38-4bef-9518-9551f67019fe,Mark Williams,1,male,liberal-democrat,47,8,0,0,0,,,Out of scope
+7c393efb-1c08-41b1-afd9-1da853e477cc,John Penrose,1,male,conservative,49,8,1,0,0,,,Out of scope
+b7b1d6cd-fe24-4aa6-ab38-f2ec47b73e9a,Mike Hancock,1,male,independent,67,29,0,0,0,,,Out of scope
+17bae9e7-1d8d-4425-ba72-2e0d312f0bac,John Healey,1,male,labour,53,16,0,0,0,,,Out of scope
+f0bb615f-c584-4850-a64e-e87de40d169a,Andrew Percy,1,male,conservative,36,3,0,0,0,,,Jewish
+2aa3a984-6047-4a26-81c6-770eda29d1b0,Lorely Burt,1,female,liberal-democrat,59,8,0,0,0,,,Out of scope
+b6f4dcb2-f8e5-4626-9739-9d80fe90ff15,Brian Binley,1,male,conservative,71,8,0,0,0,,,Out of scope
+0f316d11-27f5-4dd9-b94c-94f1d36a58bc,John Hayes,1,male,conservative,55,16,1,0,0,,,Out of scope
+9564e93b-98c4-44b9-914c-0f16be0fec72,Martin Vickers,1,male,conservative,63,3,0,0,0,,,Out of scope
+bf535961-e2b4-40ee-bc52-7223792e1db0,Hugo Swire,1,male,conservative,54,12,1,0,0,,,Out of scope
+ec3bd13d-8b32-4d27-aa65-6aa26e319cf6,David Morris,1,male,conservative,48,3,0,0,0,,,Out of scope
+80f5d89f-6f79-4c49-9e15-6bbd526d1912,Brooks Newmark,1,male,conservative,55,8,0,0,0,,,Jewish
+8d141a19-4cc5-47b9-b86b-45c4ce073244,Graham Jones,1,male,labour,47,3,0,1,0,,,Out of scope
+4ada49b5-0493-4346-afd7-c3001a50777b,Mark Reckless,1,male,ukip,43,3,0,0,0,,,Out of scope
+873c0f5f-c92e-4be3-b5a3-5607b0ac1680,Chris Ruane,1,male,labour,55,16,0,0,0,,,Out of scope
+5523feb4-dd95-489a-808c-0c8f92f20af8,Don Foster,1,male,liberal-democrat,66,21,1,0,0,,,Out of scope
+06c8a2d3-1ac8-4043-8a0f-6d751bb6842f,Ronnie Campbell,1,male,labour,70,26,0,0,0,,,Roman Catholic
+46b00033-9639-4a69-bb1b-2149caaf44dc,Mark Lancaster,1,male,conservative,43,8,1,0,0,,,Out of scope
+39d21c55-5d42-4dfe-882a-a83f597aca37,Martin Caton,1,male,labour,62,16,0,0,0,,,Out of scope
+e2f9259f-fca5-4202-9aba-4d8272e433d5,Barry Gardiner,1,male,labour,56,16,0,1,0,,,Out of scope
+4880d9ea-d1a3-4d46-b8cd-c4e19af4294a,Esther McVey,1,female,conservative,46,3,1,0,0,,,Out of scope
+d8d455d3-1968-485f-adec-5e4061c15e26,James Arbuthnot,1,male,conservative,61,26,0,0,0,,,Out of scope
+9b0fc79f-e927-43c4-b9b0-ec36d38935cf,Gavin Barwell,1,male,conservative,42,3,1,0,0,,,Out of scope
+174bac31-e869-4225-bd61-c53f88a47b59,Yasmin Qureshi,1,female,labour,50,3,0,0,1,Pakistani,Pakistani,Out of scope
+1c7ee5e0-df60-4fd3-95f7-cdf5d51fe9cb,Bridget Phillipson,1,female,labour,30,3,0,1,0,,,Roman Catholic
+1c9252f2-4a9f-4546-85b8-ffd76d3eb0c7,Julian Huppert,1,male,liberal-democrat,35,3,0,0,0,,,Jewish
+c314f622-8e4b-406d-af4d-9b5bd2bb5668,Mark Garnier,1,male,conservative,50,3,0,0,0,,,Out of scope
+69c59144-6edd-4d3e-abb3-ad3c40eb0a18,Andrew Lansley,1,male,conservative,57,16,1,0,0,,,Out of scope
+589f495d-4efb-4039-8045-1ec41831161e,Priti Patel,1,female,conservative,41,3,0,0,1,Indian,Indian,Out of scope
+cd242fc0-2af0-417c-a059-a94e7b2940c6,William Cash,1,male,conservative,73,29,0,0,0,,,Roman Catholic
+03413153-5c76-4dd8-8a5c-b257b852b04e,Alec Shelbrooke,1,male,conservative,38,3,0,0,0,,,Out of scope
+aafbb86d-43f3-4e08-a45e-a7e3ce48b930,Keith Simpson,1,male,conservative,64,16,0,0,0,,,Out of scope
+232bacdc-ee1f-44e3-bdac-cda63dbcbddb,Sajid Javid,1,male,conservative,44,3,1,0,1,Pakistani,Pakistani,Out of scope
+6ad5ac26-0020-4479-afb5-c0db9212de09,David Ward,1,male,liberal-democrat,60,3,0,0,0,,,Out of scope
+d207a584-01e7-465f-b7f0-f1c9c2e71e9d,Alistair Burt,1,male,conservative,58,30,0,0,0,,,Out of scope
+de82bd68-f40f-4172-aaa7-220a1427ac86,Helen Grant,1,female,conservative,52,3,1,0,1,White and Black African,White and Black African,Out of scope
+a6882bc8-9c5f-46f7-8c7e-fc9d3a038f49,Geoffrey Clifton-Brown,1,male,conservative,60,21,0,0,0,,,Out of scope
+c721d05c-2b1c-455d-814c-ae504cd3ca8d,David Lidington,1,male,conservative,57,21,1,0,0,,,Out of scope
+d5f00dc4-8454-4f52-8236-0dab6df529c2,Laurence Robertson,1,male,conservative,55,16,0,0,0,,,Out of scope
+3788fc3e-574a-49a2-befb-f8478190987c,Heidi Alexander,1,female,labour,38,3,0,1,0,,,Out of scope
+2c4f0d97-6ad1-42a3-9285-eb9664e9dde4,Gordon Banks,1,male,labour,58,8,0,1,0,,,Out of scope
+dd386d63-2747-4bea-bda4-60353c2b6bf6,Patrick McLoughlin,1,male,conservative,56,27,1,0,0,,,Roman Catholic
+5b3f242b-9267-4369-bfc5-18d75269bf82,Rachel Reeves,1,female,labour,34,3,0,1,0,,,Out of scope
+7d029e18-aff7-498d-a393-496b49805419,Ian Mearns,1,male,labour,56,3,0,0,0,,,Out of scope
+10f2b450-ff3b-41b0-af25-4402532f0fbf,Jonathan Edwards,1,male,plaid-cymru,37,3,0,1,0,,,Out of scope
+8beb14f9-fd86-46aa-923c-3ba24a7403ac,Mark Pritchard,1,male,conservative,47,8,0,0,0,,,Out of scope
+2005f337-e88f-4ee3-b899-f1496f636a10,Alok Sharma,1,male,conservative,46,3,0,0,1,Indian,Indian,Out of scope
+fea6ed03-3a0a-44b4-b5ba-3a6560a56b95,Anne Main,1,female,conservative,56,8,0,0,0,,,Out of scope
+1e081e07-f220-4953-999b-e37d977adbe1,Mark Lazarowicz,1,male,labour,60,12,0,0,0,,,Out of scope
+1171bfd2-c797-4d95-a021-9fee7a111188,Tobias Ellwood,1,male,conservative,47,8,0,0,0,,,Out of scope
+75202701-7c72-4eff-aeda-a74106afb3bb,Chloe Smith,1,female,conservative,31,4,0,0,0,,,Out of scope
+715cbcaa-1a45-4ee6-b516-eb7e01842e45,Andrew Smith,1,male,labour,62,26,0,0,0,,,Out of scope
+c7440951-174f-4490-a813-dda2b7157d38,Paul Blomfield,1,male,labour,60,3,0,0,0,,,Out of scope
+af2248ae-b73a-4dcc-9bd1-9f412d2111df,Damian Green,1,male,conservative,58,16,1,0,0,,,Roman Catholic
+1d8899ba-88ae-4d78-8f3a-46b2a67031eb,Richard Burden,1,male,labour,59,21,0,1,0,,,Out of scope
+4a7013ef-5bc9-4830-a845-6e5ca9decd65,Chris Evans,1,male,labourco-operative,36,3,0,0,0,,,Out of scope
+a50a275a-302c-44f8-9585-a53833b23e7d,James Brokenshire,1,male,conservative,46,8,1,0,0,,,Out of scope
+ffe205c2-7ba4-4512-9f04-66f9665da733,Graham Allen,1,male,labour,61,26,0,0,0,,,Out of scope
+ca300f47-5e59-43bd-94c1-1e9fdf15e82f,George Freeman,1,male,conservative,46,3,0,0,0,,,Out of scope
+638c70ce-6eff-4834-96eb-0f28ad977588,Mike Freer,1,male,conservative,53,3,0,0,0,,,Out of scope
+dad0f455-74c5-4db9-a33a-2bb51e4b5641,Liam Fox,1,male,conservative,52,21,0,0,0,,,Roman Catholic
+6584b02e-b750-4727-be78-d17780b5e042,Zac Goldsmith,1,male,conservative,39,3,0,0,0,,,Jewish
+e9b8acc6-00bf-409c-af15-fda6e060bbd6,Jessica Lee,1,female,conservative,37,3,0,0,0,,,Out of scope
+554fcd41-a1b7-4235-9d42-75390e951955,Oliver Heald,1,male,conservative,59,21,1,0,0,,,Out of scope
+c0874f9a-4f2b-4d1e-b6fa-520319602352,Christopher Pincher,1,male,conservative,44,3,0,0,0,,,Out of scope
+bb8c96c8-95c6-48e8-92b1-6a68e062f6a0,Jon Trickett,1,male,labour,63,18,0,1,0,,,Out of scope
+a6db9570-0007-4b5c-9620-ecb33d28e846,Marcus Jones,1,male,conservative,39,3,0,0,0,,,Out of scope
+5435f661-9f9b-4bd8-8982-1caa08a0b4bc,Gordon Brown,1,male,labour,62,30,0,0,0,,,Out of scope
+dd616977-85c9-4914-99aa-ea7ed8135f5e,Lindsay Hoyle,1,male,labour,56,16,0,0,0,,,Out of scope
+beaab9b4-7dd7-43a1-9339-3b8e3b442514,Tim Yeo,1,male,conservative,68,30,0,0,0,,,Out of scope
+7b800dc6-7ad4-4a63-836f-6d9c0f3caf2a,Iain Wright,1,male,labour,41,9,0,1,0,,,Out of scope
+e78d5cc3-2851-448f-a5a0-c7b96e103d70,Joe Benton,1,male,labour,80,23,0,0,0,,,Out of scope
+8995c638-7b64-47ff-899f-29e8fa1555a9,Yvonne Fovargue,1,female,labour,57,3,0,1,0,,,Out of scope
+9315085b-c399-40c5-a5d8-f5dc1e152c3e,William Bain,1,male,labour,41,4,0,0,0,,,Out of scope
+86ff282f-0de9-4e04-a5e8-92acd8b2c49c,David Rutley,1,male,conservative,52,3,0,0,0,,,Out of scope
+f0939a64-c8f0-4cc2-9e69-4613c769551a,Elizabeth Truss,1,female,conservative,38,3,1,0,0,,,Out of scope
+0cb313bb-1c86-4054-adb9-d8527f652601,John Redwood,1,male,conservative,62,26,0,0,0,,,Out of scope
+f7cf7e17-c804-4548-8225-9443d527b805,Jessica Morden,1,female,labour,45,8,0,0,0,,,Out of scope
+1807f856-d641-4939-b768-a64d8ed1641b,ThÃ©rÃ¨se  Coff,1,female,conservative,42,3,0,0,0,,,Out of scope
+1a701ba1-5085-4023-890f-6a5586583beb,Alan Meale,1,male,labour,64,26,0,0,0,,,Out of scope
+1f1a16f3-9541-4123-8ea3-159eac5a2228,Angie Bray,1,female,conservative,60,3,0,0,0,,,Out of scope
+d18e3bdf-cc90-49aa-8db9-80f7f64efec0,Charlotte Leslie,1,female,conservative,35,3,0,0,0,,,Out of scope
+3decc38c-a5c9-4e4e-bc09-5a37cc259ee4,Caroline Nokes,1,female,conservative,41,3,0,0,0,,,Out of scope
+203d8847-a662-4c89-b518-46d054d62f33,Steve Rotheram,1,male,labour,52,3,0,0,0,,,Out of scope
+de0fa8f6-01c6-4675-82ae-9ad986f2f2c0,Barry Sheerman,1,male,labourco-operative,73,34,0,0,0,,,Methodist
+344f6780-4850-4ff0-ad0c-5d06adc0c06f,Roger Williams,1,male,liberal-democrat,66,12,0,0,0,,,Out of scope
+bd85fce9-af0c-4ad8-a2ac-be62e0e086a7,Nicky Morgan,1,female,conservative,41,3,1,0,0,,,Out of scope
+980e3a46-b359-4f22-a34e-c6786e5c4890,Hilary Benn,1,male,labour,60,14,0,1,0,,,Out of scope
+d04976a3-058e-478e-9bc7-8d4ae78750c9,Debbie Abrahams,1,female,labour,53,3,0,0,0,,,Out of scope
+057a0ad4-e123-4c2a-9197-01eccf8d10c4,Stephen Hepburn,1,male,labour,54,16,0,0,0,,,Roman Catholic
+f9e90d18-1fff-4978-8dcb-29a4ea943716,Peter Bone,1,male,conservative,61,8,0,0,0,,,Out of scope
+d1e538e6-b185-425c-9499-3645506ed3a8,Sheryll Murray,1,female,conservative,57,3,0,0,0,,,Out of scope
+a6756d44-f136-45b0-b461-e9bee80fdb90,Greg Clark,1,male,conservative,46,8,1,0,0,,,Roman Catholic
+66b5be30-9ded-4389-a721-4d36303342dd,Ann McKechin,1,female,labour,52,12,0,0,0,,,Out of scope
+03c9e793-ddb9-4694-8e2b-96e1440cb5d2,Michael Fallon,1,male,conservative,61,30,1,0,0,,,Out of scope
+b9eaccb0-84d6-4e9f-b961-b5a625324818,Alistair Darling,1,male,labour,60,26,0,0,0,,,Out of scope
+770cea36-d62b-412a-bdd1-4e9364f54830,Stuart Andrew,1,male,conservative,42,3,0,0,0,,,Out of scope
+693136f0-7886-4cea-b912-ae7d8cc41007,John Denham,1,male,labour,60,21,0,0,0,,,Out of scope
+1c4fb4f9-510f-4134-909d-6cbc174cfab1,Guto Bebb,1,male,conservative,45,3,0,0,0,,,Out of scope
+91996363-564b-4b90-bece-bc93ae413949,Chris Skidmore,1,male,conservative,32,3,0,0,0,,,Out of scope
+80e7df57-139f-4459-a90d-59361c30b4ff,Douglas Alexander,1,male,labour,46,16,0,1,0,,,Out of scope
+3056ce3e-f671-4f93-8c89-26729762a8d7,Jack Straw,1,male,labour,67,34,0,0,0,,,Out of scope
+8d472b5f-03af-49ca-aeb2-ff7be333a821,Anne McIntosh,1,female,conservative,59,16,0,0,0,,,Out of scope
+c0b4d2cb-7428-48e5-affb-6eef195eec68,Andrew Rosindell,1,male,conservative,47,12,0,0,0,,,Out of scope
+008ca7b1-fd32-420f-b710-d49fe8e34b05,George Osborne,1,male,conservative,42,12,1,0,0,,,Jewish
+aca29423-e8c5-4cb6-aec4-82e161a71f94,Michael Ellis,1,male,conservative,46,3,0,0,0,,,Jewish
+1db798fa-1beb-4d03-b4ba-151f48b7a0fa,Helen Goodman,1,female,labour,56,8,0,1,0,,,Out of scope
+89bf3cbb-185e-4df8-a2fc-eae689bb567d,Andrew Stephenson,1,male,conservative,32,3,0,0,0,,,Methodist
+6ae9c5c1-7968-4e69-8e84-9bdc5de3bfc1,Mark Prisk,1,male,conservative,51,12,0,0,0,,,Out of scope
+ad1404e4-6285-4291-a433-6f686c2fea26,David Mowat,1,male,conservative,56,3,0,0,0,,,Out of scope
+ab908e48-6271-4c0c-9be3-010ea1f5109d,Kenneth Clarke,1,male,conservative,73,43,1,0,0,,,Out of scope
+6f17dabd-dfef-4066-ae54-33ee54474ba8,Peter Aldous,1,male,conservative,52,3,0,0,0,,,Out of scope
+60873059-a590-4d44-8805-a779702e29de,David Hamilton,1,male,labour,63,12,0,1,0,,,Out of scope
+820b2bb6-9f45-4ef5-b53d-8edd6bc1c99c,Mark Spencer,1,male,conservative,44,3,0,0,0,,,Out of scope
+d94e816b-f702-45fd-8ae0-322e42e50e00,Michael Connarty,1,male,labour,66,21,0,0,0,,,Out of scope
+9d45abd1-68da-4f2f-933e-76f0102a9b6b,Tim Loughton,1,male,conservative,51,16,0,0,0,,,Out of scope
+f0e95251-affb-4cc6-a15c-18f99137f589,Theresa May,1,female,conservative,57,16,1,0,0,,,Out of scope
+464d2f31-1f80-4b85-9ae4-38e25301d38f,Emma Reynolds,1,female,labour,36,3,0,1,0,,,Out of scope
+9d84b318-79ed-445b-bd40-86822d8f81e3,Julian Brazier,1,male,conservative,60,26,0,0,0,,,Roman Catholic
+a94952c5-d69c-45af-b8b3-c45d15e155d5,Graham Stuart,1,male,conservative,51,8,0,0,0,,,Out of scope
+4e92423a-0f9c-4dd3-863a-d0e0ecdcd893,Jeremy Lefroy,1,male,conservative,54,3,0,0,0,,,Out of scope
+b58880a5-4cad-412b-ac48-698f26ad6e8c,Gordon Henderson,1,male,conservative,66,3,0,0,0,,,Out of scope
+8b1b407d-e95a-48c7-84fc-19a5da7878fb,Heather Wheeler,1,female,conservative,54,3,0,0,0,,,Out of scope
+13073e6b-b907-4a21-b588-211ed9a0a9bb,David Amess,1,male,conservative,61,30,0,0,0,,,Roman Catholic
+b5218527-3731-4f70-ad27-8d5b38182d58,Alan Johnson,1,male,labour,63,16,0,0,0,,,Out of scope
+8b314ba8-5889-4523-97bd-4990a83ec577,Liam Byrne,1,male,labour,43,9,0,1,0,,,Out of scope
+c66caca6-b155-4ef6-b8f4-13eef95fddb3,Nigel Evans,1,male,conservative,56,21,0,0,0,,,Out of scope
+c2744a16-c599-473e-a07e-a629df306ce2,Phillip Lee,1,male,conservative,43,3,0,0,0,,,Out of scope
+29e1f71e-4a96-4e5b-9a17-52c4a88bb458,Hugh Robertson,1,male,conservative,51,12,1,0,0,,,Out of scope
+97e5d8cb-1676-4869-9d3d-7c84657929dd,Andrew Robathan,1,male,conservative,62,21,1,0,0,,,Out of scope
+906518ed-c00d-4c3e-b30a-aa33c5ed6d6c,Nick Gibb,1,male,conservative,53,16,0,0,0,,,Out of scope
+c0c266cb-104b-4a88-ad06-e7b3077851ed,Mark Harper,1,male,conservative,43,8,1,0,0,,,Roman Catholic
+9b6d43ad-c2d7-4aa5-9ccd-39f97288c439,Nic Dakin,1,male,labour,58,3,0,1,0,,,Out of scope
+6b099869-883b-43d0-ae2c-22599ff78f64,Peter Hain,1,male,labour,63,22,0,0,0,,,Out of scope
+a0d09ab6-6229-4ac9-a822-23b19d194c0f,Paul Maynard,1,male,conservative,38,3,0,0,0,,,Roman Catholic
+78d92074-f26d-42de-8ea7-a36b12a244af,Jim Murphy,1,male,labour,46,16,0,1,0,,,Out of scope
+bbe0109f-8490-4565-8dc0-3026d7712e9a,Chris Williamson,1,male,labour,57,3,0,0,0,,,Out of scope
+ca4e58c0-df17-4881-a2f9-2f4dd90ab479,Richard Fuller,1,male,conservative,51,3,0,0,0,,,Out of scope
+9d75e919-ea9f-46f8-ba93-a502c5c8889c,Sheila Gilmore,1,female,labour,64,3,0,0,0,,,Out of scope
+d45b56b0-7266-4740-a51b-54fc3fc5267b,Philip Hollobone,1,male,conservative,49,8,0,0,0,,,Out of scope
+f0dcdb26-99ca-48ed-88fc-b635de51c62e,David Cameron,1,male,conservative,47,12,1,0,0,,,Out of scope
+6736be06-ae65-4776-9820-36727caa6776,James Gray,1,male,conservative,59,16,0,0,0,,,Out of scope
+cfaddafb-c036-455d-900e-b70c061822ec,Damian Hinds,1,male,conservative,44,3,0,0,0,,,Roman Catholic
+bfe11056-33a1-494c-b4c8-56752da34798,Rory Stewart,1,male,conservative,41,3,0,0,0,,,Out of scope
+5c64fbf5-3b08-4188-9d6f-13b0dfe5368c,Robin Walker,1,male,conservative,35,3,0,0,0,,,Out of scope
+f91f59a0-4c51-4e5d-aa3d-b1fbc62bf221,Mike Wood,1,male,labour,67,16,0,0,0,,,Out of scope
+15277ba3-b652-426d-8f99-b7b0e612dc4a,Nadine Dorries,1,female,conservative,56,8,0,0,0,,,Out of scope
+750ee08f-80c1-4e4c-a177-23beec2da6a9,Dan Byles,1,male,conservative,39,3,0,0,0,,,Out of scope
+f3e73d47-676f-4653-a2a0-fd460b7946d6,Gary Streeter,1,male,conservative,58,21,0,0,0,,,Methodist
+1d16fa06-1687-4f3c-8bb6-b27fb9c4ef3f,Siobhain McDonagh,1,female,labour,53,16,0,0,0,,,Roman Catholic
+d5870570-ad42-45fc-9734-412de84c75de,Cheryl Gillan,1,female,conservative,61,21,0,0,0,,,Out of scope
+e5fdfd92-50f1-413f-81b4-82f17012d042,Jack Dromey,1,male,labour,65,3,0,1,0,,,Roman Catholic
+94a2de3c-ba01-434c-9915-d861493c4662,Jonathan Lord,1,male,conservative,51,3,0,0,0,,,Out of scope
+065c92b3-06e2-45d9-9660-b29c1d05a641,Mike Crockart,1,male,liberal-democrat,48,3,0,0,0,,,Out of scope
+2b90bed6-db37-4ed4-b879-a4096e9dbc1d,Steve Brine,1,male,conservative,40,3,0,0,0,,,Out of scope
+28b2c44c-e55f-4898-ac71-a8432f96aabc,Albert Owen,1,male,labour,54,12,0,0,0,,,Out of scope
+67b1112d-2266-44b2-bbcb-ab1e0883ce72,Peter Luff,1,male,conservative,58,21,0,0,0,,,Out of scope
+3a971340-a3ce-4fe2-8afe-835717350e5d,Andy Burnham,1,male,labour,44,12,0,1,0,,,Roman Catholic
+a4592b0c-6ec2-4e08-b3d0-47e981472bae,Henry Smith,1,male,conservative,44,3,0,0,0,,,Out of scope
+3c3ced63-9f37-4512-9504-1bc9f3d39d5c,Neil Parish,1,male,conservative,57,3,0,0,0,,,Out of scope
+c7953c38-203e-40a5-a01b-09f5c26314c5,Pete Wishart,1,male,scottish-national-party,51,12,0,1,0,,,Out of scope
+76c66475-c9ad-4934-adde-9070bc9d8aed,Charlie Elphicke,1,male,conservative,42,3,0,0,0,,,Out of scope
+03ba2cd5-25fc-4798-b506-85de02e6b3dc,Frank Dobson,1,male,labour,73,34,0,0,0,,,Out of scope
+48bdbfb2-8042-4eb5-bc84-b0b8dace3e1b,Mary Macleod,1,female,conservative,45,3,0,0,0,,,Out of scope
+2a551c45-502a-40ea-bd5c-842cbe1357f4,Owen Smith,1,male,labour,43,3,0,1,0,,,Out of scope
+25f30064-dfdf-4e38-8846-b9f962acf3b7,Malcom Bruce,0,male,liberal-democrat,69,30,0,0,0,,,Out of scope
+8511e078-6257-4dc9-94e2-14494d874775,Jacob Rees-Mogg,1,male,conservative,44,3,0,0,0,,,Roman Catholic
+b10a09f3-3afa-47dc-98ae-acb28ba668ec,Ian Davidson,1,male,labour,63,21,0,0,0,,,Out of scope
+36a149e3-ea22-4a46-aa93-29cb4340beb6,Greg Mulholland,1,male,liberal-democrat,43,8,0,0,0,,,Roman Catholic
+b33f2f01-02a8-4ef6-96fa-f1b19b1fd856,Nick Boles,1,male,conservative,48,3,1,0,0,,,Out of scope
+485ec779-7010-4b74-80fa-c0da2114872e,George Mudie,1,male,labour,68,21,0,0,0,,,Out of scope
+33830a63-b769-4dc0-8d8d-4e365e0dc601,Caroline Lucas,1,female,green,53,3,0,0,0,,,Out of scope
+cf67e0a9-d523-472b-b6a7-d3f19d9c0931,Claire Perry,1,female,conservative,49,3,1,0,0,,,Out of scope
+6fb6f7f3-e719-4969-bbd1-e827408bf66e,John Whittingdale,1,male,conservative,54,21,0,0,0,,,Out of scope
+a2daa008-28da-4d0c-87aa-dc2df5e03ed2,Andrew Tyrie,1,male,conservative,57,16,0,0,0,,,Out of scope
+54decb4f-7363-42bf-8653-34847b88c9d0,Shaun Woodward,1,male,labour,55,16,0,0,0,,,Out of scope
+ec914731-0b3a-480f-9509-be91bb245021,Conor Burns,1,male,conservative,41,3,0,0,0,,,Roman Catholic
+273b0a66-138d-4252-b38a-05b24e212f15,Fabian Hamilton,1,male,labour,58,16,0,0,0,,,Jewish
+8af26c3b-c200-427d-9eae-fa32236aad5c,Lynne Featherstone,1,female,liberal-democrat,62,8,1,0,0,,,Jewish
+e7ae595e-131b-4e98-ab01-ba3437a56cfd,Penny Mordaunt,1,female,conservative,40,3,0,0,0,,,Out of scope
+38a8ee49-c02a-4cd9-be9b-0423565c17ab,Mike Weatherley,1,male,conservative,56,3,0,0,0,,,Out of scope
+d77d878e-0bad-4d61-a2e7-cf1a40bc4ff2,Crispin Blunt,1,male,conservative,53,16,0,0,0,,,Out of scope
+f45fcf28-da42-43ca-994f-431ef1b2c701,Henry Bellingham,1,male,conservative,58,30,0,0,0,,,Out of scope
+bb5c2095-1335-4936-b7d5-79d408447b2b,Nick Raynsford,1,male,labour,69,27,0,0,0,,,Out of scope
+e6ab9297-24b1-436f-8773-982a5c769965,Rob Wilson,1,male,conservative,49,8,0,0,0,,,Out of scope
+8aa2b88a-1beb-456f-b946-397120756a6e,Jackie Doyle-Price,1,female,conservative,44,3,0,0,0,,,Out of scope
+2ea060ee-2886-42c3-a990-e74b28d9817b,Nigel Adams,1,male,conservative,47,3,0,0,0,,,Out of scope
+9f914afc-e9a1-4f1d-aece-6fd1a7e89a0a,Adam Holloway,1,male,conservative,48,8,0,0,0,,,Out of scope
+54dfc6ed-3e14-46b7-aa58-30e44c92bfb4,Justin Tomlinson,1,male,conservative,37,3,0,0,0,,,Out of scope
+8ca982a7-9def-41e7-92b9-c81a650032ed,Andrew Griffiths,1,male,conservative,43,3,0,0,0,,,Out of scope
+014d5b06-71f0-469b-b02c-994885f00e0a,Caroline Dinenage,1,female,conservative,42,3,0,0,0,,,Out of scope
+74fe62b2-36f8-4128-8f77-d3025ba6157e,Jeremy Wright,1,male,conservative,41,8,1,0,0,,,Roman Catholic
+5010419c-68c3-423f-bbfa-a06f7ae77aa2,Kerry McCarthy,1,female,labour,48,8,0,1,0,,,Out of scope
+f613eb5e-b24c-438e-aac4-d0e6c58179dc,Caroline Spelman,1,female,conservative,55,16,0,0,0,,,Methodist
+5cf8fe29-8b7e-434b-9d0e-4340183c5ff4,Alison Seabeck,1,female,labour,60,8,0,1,0,,,Out of scope
+8760270d-cbcc-4c5e-8a2d-df3d7c6c84cb,John Stevenson,1,male,conservative,50,3,0,0,0,,,Out of scope
+4e2b8a32-cced-487e-8466-2b708b043095,John Randall,1,male,conservative,58,16,0,0,0,,,Out of scope
+7f3781f1-7498-4f4f-b8d8-c2cb8c6a3ff8,Shabana Mahmood,1,female,labour,33,3,0,1,1,Pakistani,Pakistani,Out of scope
+ffd1c1e2-82a4-4e1b-a522-859cff7f372f,Mary Glindon,1,female,labour,57,3,0,0,0,,,Roman Catholic
+1f96d908-7362-44de-bdf2-c6723f1925ea,Richard Harrington,1,male,conservative,56,3,0,0,0,,,Jewish
+715ce251-4e17-40e6-9b41-73d38cd7904d,Edward Garnier,1,male,conservative,61,21,0,0,0,,,Roman Catholic
+26b55cc0-fd07-4798-90ed-387dbc115815,Tessa Munt,1,female,liberal-democrat,54,3,0,0,0,,,Out of scope
+16d17cad-d695-485b-9ac9-ad3df794d20b,Steve Reed,1,male,labourco-operative,50,1,0,1,0,,,Out of scope
+fa0fd42b-bc56-40d7-9143-efcb12033655,Matthew Offord,1,male,conservative,44,3,0,0,0,,,Out of scope
+15b9159e-715c-48ec-8116-77b707483fed,Mark Menzies,1,male,conservative,42,3,0,0,0,,,Roman Catholic
+adeb6afa-efc8-49b4-81ef-75d5166609df,Stephen Dorrell,1,male,conservative,61,34,0,0,0,,,Out of scope
+7a23bc89-2990-49b5-acef-0ec35a05ea4f,Richard Ottaway,1,male,conservative,68,30,0,0,0,,,Out of scope
+af48a89f-343d-48e4-b98a-f4e1cd61fa79,Joan Walley,1,female,labour,65,26,0,0,0,,,Out of scope
+e9c5d397-5fcf-442c-b27b-cf9d9791ccf1,Chris Heaton-Harris,1,male,conservative,46,3,0,0,0,,,Out of scope
+56a32f29-dc48-4f79-befe-d2fd67b9b159,Richard Drax,1,male,conservative,56,3,0,0,0,,,Out of scope
+98776c26-8349-4716-9054-b676835e7313,Sandra Osborne,1,female,labour,57,16,0,0,0,,,Out of scope
+09ac3392-082d-463a-bee6-6b2b8afc2b41,Tristram Hunt,1,male,labour,39,3,0,1,0,,,Out of scope
+7411ca22-05fa-4624-bd29-4cc3f5b2b260,James Paice,1,male,conservative,64,26,0,0,0,,,Out of scope
+50b29f21-b0a6-4987-bcf0-2be2d6268c1b,Nicholas Brown,1,male,labour,63,30,0,0,0,,,Out of scope
+99f5142c-f989-4987-b307-71deb2ec8c5b,Charles Hendry,1,male,conservative,54,21,0,0,0,,,Out of scope
+0ab91bca-01c5-42c6-a54e-0be50e6d18c3,Mark Pawsey,1,male,conservative,57,3,0,0,0,,,Roman Catholic
+c9cdc5d7-2220-4fc5-a851-91359abf2eb3,Richard Bacon,1,male,conservative,51,12,0,0,0,,,Out of scope
+89f6c9cd-904f-449c-9f7f-3f4c73badfc5,Michael Dugher,1,male,labour,38,3,0,1,0,,,Roman Catholic
+33b50128-407d-4353-bdde-82c960ee1a0f,Tom Greatrex,1,male,labour,39,3,0,1,0,,,Out of scope
+62c0a115-5ef9-4e10-9827-554027f7d915,Karen Bradley,1,female,conservative,43,3,1,0,0,,,Out of scope
+22e129e6-5fda-4875-9f95-b71f32b04c4a,Robert Smith,1,male,liberal-democrat,55,16,0,0,0,,,Out of scope
+1f517ead-ff14-4114-8842-e39ff2aab2a8,Derek Twigg,1,male,labour,54,16,0,0,0,,,Roman Catholic
+bd353152-d1a0-4387-9814-5eddabadca91,Steve Baker,1,male,conservative,42,3,0,0,0,,,Out of scope
+39218598-41c2-452f-a3df-ae2492a81025,John Stanley,1,male,conservative,72,39,0,0,0,,,Out of scope
+1020ed04-030d-47e5-baeb-827505778d7a,Gregory Barker,1,male,conservative,47,12,1,0,0,,,Out of scope
+e06b74a2-2e40-4c89-8f77-cbf5dce25f90,Harriet Harman,1,female,labour,63,31,0,1,0,,,Out of scope
+1e6383b9-a89e-43df-a15e-df6dcf677e11,Simon Wright,1,male,liberal-democrat,34,3,0,0,0,,,Out of scope
+c991587f-26b8-4d56-893f-8d5645bf5937,David Anderson,1,male,labour,60,8,0,0,0,,,Out of scope
+94b6f276-4657-4ac5-9345-1b9774bdc99e,Paul Burstow,1,male,liberal-democrat,51,16,0,0,0,,,Out of scope
+22a4b1c1-5b25-4a19-b0dc-a7d0d5e63573,Ian Murray,1,male,labour,37,3,0,1,0,,,Out of scope
+2d61fa08-5997-4421-b126-7f7b3c62a110,David Tredinnick,1,male,conservative,64,26,0,0,0,,,Out of scope
+9988e0b1-2cc5-468e-987f-71f71834496d,Andrew George,1,male,liberal-democrat,55,16,0,0,0,,,Methodist
+67e460a6-e94f-47d6-a9c2-ac47f4f82443,Roberta Blackman-Woods,1,female,labour,56,8,0,1,0,,,Out of scope
+d568b14e-b870-4bed-b822-18ff7eca0edf,Ivan Lewis,1,male,labour,46,16,0,1,0,,,Jewish
+87a67837-0ac2-4b00-bdab-3574f8cffd27,John Thurso,1,male,liberal-democrat,60,12,0,0,0,,,Out of scope
+fba32bbb-17f1-48b8-8797-2d534987b17d,Alan Campbell,1,male,labour,56,16,0,1,0,,,Out of scope
+b16148db-7312-4fea-91bb-fb167345aa75,Edward Davey,1,male,liberal-democrat,48,16,1,0,0,,,Out of scope
+506bf4ed-02de-4e86-8112-5da78ba7ec8c,Alan Duncan,1,male,conservative,56,21,1,0,0,,,Out of scope
+0b03d9ac-ba9b-4d38-9b2d-286da94b66b1,Ben Bradshaw,1,male,labour,53,16,0,0,0,,,Out of scope
+2d89c66c-056b-4728-b92d-a0a1b0cfb1f4,Huw Irranca-Davies,1,male,labour,51,11,0,1,0,,,Roman Catholic
+79897675-ed28-438a-bb54-e3a8bed579a6,Desmond Swayne,1,male,conservative,57,16,1,0,0,,,Out of scope
+d5f39a5a-e7ce-423a-aad8-90fa5f8a5fca,Kevin Brennan,1,male,labour,54,12,0,1,0,,,Roman Catholic
+0a333d66-3357-4b71-a6cc-53205f83b1a2,Mike Penning,1,male,conservative,56,8,1,0,0,,,Out of scope
+a590aa6e-215e-473d-80af-f0f048ac109b,Anne Milton,1,female,conservative,58,8,1,0,0,,,Out of scope
+a36f1491-5c13-4259-a671-126e8c81be37,Jim Hood,1,male,labour,65,26,0,0,0,,,Out of scope
+dbb03568-c37b-4f9f-b34e-f3b51d38df36,Menzies Campbell,1,male,liberal-democrat,72,26,0,0,0,,,Out of scope
+b1114cb8-f3b2-42fd-bdbd-338f66b8673b,Hywel Williams,1,male,plaid-cymru,60,12,0,1,0,,,Out of scope
+faebd21b-ea1e-4a94-99ef-09149e8457e0,Robert Neil,0,male,conservative,61,7,0,0,0,,,Out of scope
+26d8a079-beed-4d65-8655-4200407ef3c7,Glenda Jackson,1,female,labour,77,21,0,0,0,,,Out of scope
+8b133dc8-6326-459f-9033-24eeab5a14bb,David Wright,1,male,labour,47,12,0,0,0,,,Out of scope
+28803bc3-3382-4b1f-a558-fe8f81cb8ff0,Gregg McClymont,1,male,labour,37,3,0,1,0,,,Out of scope
+84ae2d69-aaac-40f8-93cb-cbdaaab05afa,Robert Flello,1,male,labour,48,8,0,0,0,,,Roman Catholic
+9a6e507c-2c13-4e62-9a57-2a5a232e6678,Rosie Winterton,1,female,labour,55,16,0,1,0,,,Out of scope
+6193c661-6fe3-4af9-9454-db09160cde6f,Lee Scott,1,male,conservative,57,8,0,0,0,,,Jewish
+ee686849-6bac-4b9b-8ac2-45f235790a6c,Andy Slaughter,1,male,labour,53,8,0,1,0,,,Out of scope
+a30851dc-c397-445c-bcb6-3c3e28c33fa8,Nick Hebert,0,male,conservative,50,8,0,0,0,,,Out of scope
+dcd08376-50f7-498a-bbe2-f1ef5dba85da,Jim Sheridan,1,male,labour,61,12,0,0,0,,,Out of scope
+139dc8e1-884d-47c6-bc6c-e00bdcb27220,Duncan Hames,1,male,liberal-democrat,36,3,0,0,0,,,Out of scope
+9fec1787-624d-4b11-a738-f4ce117e13e3,Andrew Bridgen,1,male,conservative,49,3,0,0,0,,,Out of scope
+14573aa9-0e99-4ab8-b7ba-5443e59df132,Stephen Metcalfe,1,male,conservative,48,3,0,0,0,,,Out of scope
+cc1ae2ef-bf24-4351-b42c-ddbea4c4d7d6,Robert Buckland,1,male,conservative,45,3,0,0,0,,,Out of scope
+8b42b57e-114b-4d26-a3b8-35c119185fcd,David T. C. Davies,1,male,conservative,43,8,0,0,0,,,Out of scope
+dcf83408-2141-4326-bae5-7d48d9e71f6a,Margot James,1,female,conservative,56,3,0,0,0,,,Out of scope
+7bf44e37-b4f8-4e3e-b8f3-d69057e71489,Richard Shepherd,1,male,conservative,71,34,0,0,0,,,Out of scope
+bf9a7c48-1787-4e26-bf6f-bcdc40f4ed76,Kwasi Kwarteng,1,male,conservative,38,3,0,0,1,African,African,Out of scope
+249a7b78-c4e1-42c7-9e8e-cd035902c431,Stephen Twigg,1,male,labourco-operative,47,16,0,1,0,,,Out of scope
+150dd3ad-d13e-468f-b9a5-b0ee4b5411bf,Anna Sourby,0,female,conservative,57,3,1,0,0,,,Out of scope
+10e4c7d6-349b-4d0c-8366-481dbe6c9485,Lucy Powell,1,female,labourco-operative,39,1,0,1,0,,,Out of scope
+7bc6a9e4-5bcc-4c59-9828-84732d165b2e,David Ruffley,1,male,conservative,51,16,0,0,0,,,Out of scope
+5de6989e-944d-4bd5-be74-d010ae6316af,John Leech,1,male,liberal-democrat,42,8,0,0,0,,,Out of scope
+ea06007e-372a-4def-8516-17686652a334,Stephen McPartland,1,male,conservative,37,3,0,0,0,,,Roman Catholic
+d0e0f592-3578-49aa-aa20-41f73e3fb7ea,Jeremy Corbyn,1,male,labour,64,30,0,0,0,,,Out of scope
+634d16b3-7c37-440c-b033-8f58e9a98cfa,John Pugh,1,male,liberal-democrat,65,12,0,0,0,,,Roman Catholic
+166f4f53-c421-40b1-aa62-10e3a206728b,Grant Shapps,1,male,conservative,45,8,1,0,0,,,Jewish
+02571a0d-b8ef-4450-af30-0f06727331ec,Pat McFadden,1,male,labour,48,8,0,0,0,,,Roman Catholic
+0f617c11-f463-4b85-b4ef-5675d21e0955,John Baron,1,male,conservative,54,12,0,0,0,,,Out of scope
+e09079a7-6609-4fe8-93b4-bd499637e130,Adam Afriyie,1,male,conservative,48,8,0,0,1,White and Black African,White and Black African,Out of scope
+4d569089-2d17-4f8b-bd9a-5e751959dee7,Chi Onwurah,1,female,labour,48,3,0,1,1,White and Black African,White and Black African,Out of scope
+309239d4-bba8-4ea3-9ec2-c34cb99f7a9f,Dave Watts,1,male,labour,62,16,0,0,0,,,Methodist
+22e0d72d-135d-4c62-8444-6d00478f03a3,Emma Lewell-Buck,1,female,labour,35,0,0,0,0,,,Out of scope
+51200a40-8eed-434b-b488-0deec4196e4e,Paul Uppal,1,male,conservative,46,3,0,0,1,Sikhs of East African,Indian,Out of scope
+7792da6d-e9cb-4489-a7f7-01fbc3821d7b,David Hanson,1,male,labour,56,21,0,1,0,,,Out of scope
+ac0af147-f8fc-46aa-89ff-efb649e07172,Bob Russell,1,male,liberal-democrat,67,16,0,0,0,,,Out of scope
+74653615-32e9-49d8-968c-b456d5371ebc,John Mann,1,male,labour,54,12,0,0,0,,,Out of scope
+509c288f-d211-422b-8874-0256e18cad2c,Theresa Villiers,1,female,conservative,45,8,1,0,0,,,Out of scope
+5a34ec18-6a3d-47a5-958a-45cffb5b6676,Graeme Morrice,1,male,labour,54,3,0,0,0,,,Out of scope
+6ffbe235-2164-4d2c-9bf3-95a0df477f01,David Laws,1,male,liberal-democrat,48,12,1,0,0,,,Out of scope
+5b3832c0-204a-40ca-a2c9-b0d336c02e0d,Kate Green,1,female,labour,53,3,0,1,0,,,Out of scope
+ca9636b5-d14d-4219-ba27-84ec5a7f17f1,Mark Hoban,1,male,conservative,49,12,0,0,0,,,Out of scope
+24edfa54-41b2-4518-a16d-f084f09330c8,Gisela Stuart,1,female,labour,58,16,0,0,0,,,Roman Catholic
+4a75ad56-87ec-4403-9191-3a5c563a5bd7,Karen Lumley,1,female,conservative,49,3,0,0,0,,,Out of scope
+8a7d21e4-45c5-4183-a0f3-a7457116a2d1,Alun Cairns,1,male,conservative,43,3,0,0,0,,,Out of scope
+9c85901a-18bc-40f7-8423-71f3e1411b2a,Gareth Thomas,1,male,labourco-operative,46,16,0,1,0,,,Out of scope
+29f4f628-260c-4418-971d-2a92859e5c05,Mark Field,1,male,conservative,49,12,0,0,0,,,Out of scope
+f6d88867-c9b8-4a00-81a0-3f8ca5cc2d45,Alex Cunningham,1,male,labour,58,3,0,0,0,,,Out of scope
+12c8177c-dfa3-433f-978b-e46a89d4d3ae,Jonathan Ashworth,1,male,labourco-operative,35,2,0,1,0,,,Out of scope
+73262390-0df5-4436-8347-cb8546388a8f,Charles Walker,1,male,conservative,46,8,0,0,0,,,Roman Catholic
+4441ef84-830e-4945-bb94-121cbf151b3b,Vince Cable,1,male,liberal-democrat,70,16,1,0,0,,,Out of scope
+4d402af3-b527-45fb-bb86-b8626430b7b8,Greg Hands,1,male,conservative,48,8,1,0,0,,,Out of scope
+fd3f4348-2f4d-4da2-9928-78ef403d1d11,",George Howarth",1,male,labour,64,27,0,0,0,,,Out of scope
+514a0643-a315-4e37-bf06-4ac7b060f270,Dominic Grieve,1,male,conservative,57,16,1,0,0,,,Out of scope
+3879b6fc-76b7-498e-867b-55500d8ed286,Andy McDonald,1,male,labour,55,1,0,0,0,,,Roman Catholic
+c9a0c3e7-3fb5-4f4c-91f1-8a59a420aa5e,Adrian Bailey,1,male,labourco-operative,68,13,0,0,0,,,Out of scope
+93bdd390-fab0-419c-a30b-5958fea5de21,Stephen Mosley,1,male,conservative,41,3,0,0,0,,,Out of scope
+1eac4422-edd6-4518-9cd3-08cbc0e6aa59,Owen Paterson,1,male,conservative,57,16,1,0,0,,,Out of scope
+8cc4409c-3fcb-494e-a270-57cf95d6673f,Stephen Barclay,1,male,conservative,41,3,0,0,0,,,Out of scope
+9cb1b3a1-8db2-4005-97c3-76d8a4dc45c3,Steve Webb,1,male,liberal-democrat,48,16,1,0,0,,,Out of scope
+7f7dcec5-8695-4b06-809f-ff51d98877d8,Michael Meacher,1,male,labour,74,43,0,0,0,,,Out of scope
+61e6b604-8021-4f23-96fe-39002f901c55,Sarah Newton,1,female,conservative,52,3,0,0,0,,,Methodist
+4b798a99-47dd-401f-b4ff-7480910483bd,Sarah Champion,1,female,labour,44,1,0,0,0,,,Out of scope
+cf2c31cd-3f13-4aea-a55e-e022c7f3039e,Christopher Chope,1,male,conservative,66,30,0,0,0,,,Out of scope
+1748dfbe-822c-438d-8983-5beaff89f40a,Graham Stringer,1,male,labour,63,16,0,0,0,,,Out of scope
+afd1b17c-a54f-4d55-8f55-b0ed644781f3,Ben Gummer,1,male,conservative,35,3,0,0,0,,,Roman Catholic
+89f4232b-c596-4e66-b599-b5a753fe4f82,Jack Lopresti,1,male,conservative,44,3,0,0,0,,,Out of scope
+f7c0c6c5-b881-4815-ae29-c476494992cd,Jason McCartney,1,male,conservative,46,3,0,0,0,,,Out of scope
+6dda191c-7471-409d-a254-4f229ef684c6,Bob Blackman,1,male,conservative,57,3,0,0,0,,,Out of scope
+b7a96c20-8f4d-4827-8b6a-f8e24c9d0ae0,Tony Cunningham,1,male,labour,61,12,0,0,0,,,Out of scope
+1a69ee3e-f193-42f5-8da3-ae8a4a6d4aa5,John McDonnell,1,male,labour,62,16,0,0,0,,,Out of scope
+2ac22233-f18b-4d08-9104-47dc9f6974b7,Mike Thornton,1,male,liberal-democrat,61,0,0,0,0,,,Out of scope
+a9d203b3-10f7-41e5-b0f2-94afaaa3bf41,John Woodcock,1,male,labourco-operative,34,3,0,0,0,,,Out of scope
+6b49844f-f71d-46f9-a704-c639c2d8ec0e,David Heyes,1,male,labour,67,12,0,0,0,,,Out of scope
+a4fbf875-fd2e-42bf-a02e-757246b50f10,Paul Flynn,1,male,labour,78,26,0,0,0,,,Out of scope
+481a89bb-a56b-484a-bbd2-c11126acd610,Rosie Cooper,1,female,labour,63,8,0,0,0,,,Roman Catholic
+9a325a73-0f25-4be0-8bfa-e0c495b6f2c5,Caroline Flint,1,female,labour,52,16,0,1,0,,,Out of scope
+708dc57b-4629-4942-b610-fe05c52bb795,Madeleine Moon,1,female,labour,63,8,0,0,0,,,Out of scope
+eeaa59eb-d9df-4780-9dd0-a0a887848c89,Kate Hoey,1,female,labour,67,24,0,0,0,,,Out of scope
+c6e09c2d-40c8-4fee-8b64-c4dfa10ee38f,Daniel Kawczynski,1,male,conservative,42,8,0,0,0,,,Roman Catholic
+83bb842f-324e-4643-89c6-840b87259f32,Ian Lucas,1,male,labour,53,12,0,1,0,,,Out of scope
+83c13d58-ea7d-42c2-bd37-ad193c9ca00b,Karen Buck,1,female,labour,55,16,0,0,0,,,Roman Catholic
+e174ecb6-08ae-4002-afb1-985092ca52a8,Ian Lavery,1,male,labour,51,3,0,0,0,,,Out of scope
+bef17b42-7ddb-47e2-bffe-e4d46822dfbd,Jim McGovern,1,male,labour,57,8,0,0,0,,,Out of scope
+f5f069df-c60b-4cca-8414-027c9e02d769,Nick Clegg,1,male,liberal-democrat,47,8,1,0,0,,,Out of scope
+6235fe31-a4be-4307-bc3f-248c58c7d1a7,Hywel Francis,1,male,labour,67,12,0,0,0,,,Out of scope
+3b81ff9a-9550-4f90-b2ee-45bef1f212e8,Nadhim Zahawi,1,male,conservative,46,3,0,0,1,Kurdish,Other ethnic group,Out of scope
+234ac83e-4b22-4157-a32f-acce2d68df3a,Dawn Primarolo,1,female,labour,59,26,0,0,0,,,Out of scope
+7fe9e2bc-8ebe-4dd9-9eeb-5a73263feaf2,Hazel Blears,1,female,labour,57,16,0,0,0,,,Out of scope
+153ff790-1a0f-4298-90df-3c71708ad54f,Nigel Mills,1,male,conservative,39,3,0,0,0,,,Out of scope
+250156fc-8a6d-4945-803f-31eb324aff3c,Keith Vaz,1,male,labour,57,26,0,0,1,Indian,Indian,Roman Catholic
+29aa8774-ba80-409c-a2c8-1830d1076db2,Angela Watkinson,1,female,conservative,72,12,0,0,0,,,Out of scope
+6708cd85-0c00-46fd-8109-cd3fae02545f,Vernon Coaker,1,male,labour,60,16,0,1,0,,,Out of scope
+393fb4c3-0951-4a68-9f39-0bd1259e4cb7,Tim Farron,1,male,liberal-democrat,43,8,0,0,0,,,Out of scope
+77703884-26c0-4da7-9144-636f933ed022,Jenny Chapman,1,female,labour,40,3,0,1,0,,,Out of scope
+a7f0a4e6-ce12-4263-ac2a-8ab83e9739d3,Graham Brady,1,male,conservative,46,16,0,0,0,,,Out of scope
+4ab4c765-25ce-4a2b-b521-da28012236d3,Mike Kane,1,male,labour,45,0,0,0,0,,,Out of scope
+8dc8feb5-ffd6-444a-9744-cd4429c1795c,Jesse Norman,1,male,conservative,51,3,0,0,0,,,Out of scope
+a12df9f9-57e8-4544-b0d7-77ce8497dca8,Stella Creasy,1,female,labourco-operative,36,3,0,1,0,,,Out of scope
+b51bbd80-09fb-4928-a7ef-16b462b9545f,Paul Beresford,1,male,conservative,67,21,0,0,0,,,Out of scope
+45e9b82d-1955-44d7-b0b2-f8e081e7d5c8,Robert Syms,1,male,conservative,57,16,0,0,0,,,Out of scope
+19ef96d4-962a-4244-a77d-f2c0b47b82e0,Fiona Mactaggart,1,female,labour,60,16,0,0,0,,,Out of scope
+faf9644d-c4b7-4bf6-99f8-64bbebec0000,Rushanara Ali,1,female,labour,38,3,0,1,1,Bangladesh,Bangladesh,Out of scope
+f1d20f16-4850-468b-acf9-e41c789f78b7,Alison McGovern,1,female,labour,33,3,0,1,0,,,Out of scope
+245968e3-b37c-48d8-83ce-e75d43eaf63e,Stephen Timms,1,male,labour,58,19,0,1,0,,,Out of scope
+eab527c8-fd11-4147-b06c-26c8cd26d50c,Andrew Murrison,1,male,conservative,52,12,1,0,0,,,Out of scope
+da8437ee-ca8c-43f7-b72a-8d6446860dca,David Heath,1,male,liberal-democrat,59,16,0,0,0,,,Out of scope
+b82598e9-4d7c-4a63-9326-875823160a0a,Simon Danczuk,1,male,labour,47,3,0,0,0,,,Roman Catholic
+d7b21f1a-859f-42c0-b312-9cf49a8cf810,Gerald Kaufman,1,male,labour,83,43,0,0,0,,,Jewish
+f90ef47b-c154-4bdc-af7c-ecebc1383eee,Meg Hillier,1,female,labourco-operative,44,8,0,0,0,,,Roman Catholic
+c31db300-fc3c-41ea-bc2e-c954bc15745c,Ian Austin,1,male,labour,48,8,0,0,0,,,Out of scope
+0d5db2c5-773d-4d63-88c4-6a0e9c888873,David  Blunkett,1,male,labour,66,26,0,0,0,,,Out of scope
+187b8099-5df1-4b23-bf2a-9742104f438f,Gerald Howarth,1,male,conservative,66,30,0,0,0,,,Out of scope
+6778cd51-328c-4b2a-9aea-5006f2f2fb49,Tracey Crouch,1,female,conservative,38,3,0,0,0,,,Out of scope
+050b8e6e-9e83-4e85-8653-4ba6a5f93d66,Pat Glass,1,female,labour,56,3,0,0,0,,,Roman Catholic
+a4f50182-d40c-4b1b-92c6-d9a2f126d9ab,Douglas Carswell,1,male,ukip,42,8,0,0,0,,,Out of scope
+8e4c4797-e501-4562-9465-25c62936b4c4,Lilian Greenwood,1,female,labour,47,3,0,1,0,,,Out of scope
+8d0fe78e-0c69-44f1-abaa-8aa498f926ec,Anne Marie Morris,1,female,conservative,56,3,0,0,0,,,Out of scope
+bad07718-a87b-4fa3-b865-d0a1c9f10f7d,Lindsay Roy,1,male,labour,65,5,0,0,0,,,Out of scope
+5f4a3ae9-0602-40c0-8045-ab907bfd0337,David Winnick,1,male,labour,80,47,0,0,0,,,Jewish
+e6241e32-41e5-4a37-9b02-d2f10cfb51a6,Gordon Birtwistle,1,male,liberal-democrat,70,3,0,0,0,,,Out of scope
+ecfaf573-6f02-46e0-aecb-829a81ca1a00,Glyn Davies,1,male,conservative,69,3,0,0,0,,,Out of scope
+24f8e639-37fe-4521-a19e-6bcc0cb55f3c,Anne McGuire,1,female,labour,64,16,0,0,0,,,Out of scope
+c6c1a0e6-1d18-433c-a225-f0673c923e15,Stephen Pound,1,male,labour,65,16,0,1,0,,,Roman Catholic
+dc191a69-dce8-4faa-8926-d7d3a6bb5723,Bob Steart,0,male,conservative,64,3,0,0,0,,,Out of scope
+6541f391-b348-4591-a261-f5ed628e7e03,Tessa Jowell,1,female,labour,66,21,0,0,0,,,Out of scope
+e88fc8ab-06a9-4601-8d79-d03bb0919068,Angus Robertson,1,male,scottish-national-party,44,12,0,1,0,,,Out of scope
+8869fbe7-8a02-45ba-a7b1-1222a0ed8403,David Davis,1,male,conservative,65,26,0,0,0,,,Out of scope
+57c3e506-ebee-4d6c-afc8-bba0133e6ed5,Clive Betts,1,male,labour,64,21,0,0,0,,,Out of scope
+5acec5d9-cf20-48f4-892e-017816d77293,Bob Ainsworth,1,male,labour,61,21,0,0,0,,,Out of scope
+67ef3e21-d2e4-4901-9119-72407e047233,Tom Harris,1,male,labour,49,12,0,0,0,,,Out of scope
+9a36f89e-2430-46fc-8929-4a8401691286,David Mundell,1,male,conservative,51,14,1,0,0,,,Out of scope
+1171194d-3997-4cd1-b859-9e8efaaaa534,Robert Halfon,1,male,conservative,44,3,0,0,0,,,Jewish
+83333279-b6f1-4052-bb61-7441fe52f06a,Rehman Chishti,1,male,conservative,35,3,0,0,1,Pakistani,Pakistani,Out of scope
+3e6925c9-85a4-4805-b448-13f78ee38673,Gloria De Piero,1,female,labour,41,3,0,1,0,,,Out of scope
+acda652e-e45a-4e5d-8a58-be92701d697f,Iain McKenzie,1,male,labour,54,2,0,0,0,,,Out of scope
+5d42993c-cdf3-49a2-8bb6-733a6aeda2fb,Laura Sandys,1,female,conservative,49,3,0,0,0,,,Out of scope
+319aff12-5850-4bc3-a4d9-ad9945a2f39b,Adrian Sanders,1,male,liberal-democrat,54,16,0,0,0,,,Out of scope
+65debd30-e099-4df8-9320-ae6abd48ea16,Alistair Carmichael,1,male,liberal-democrat,48,12,1,0,0,,,Out of scope
+044575b3-8826-48e3-a053-069dc1e8298c,Gordon Marsden,1,male,labour,60,16,0,1,0,,,Out of scope
+8d2dba2b-6881-47a1-8fec-562179e686a2,Bill Esterson,1,male,labour,47,3,0,0,0,,,Out of scope
+36be8f2b-ea28-40c0-9dc9-03df32857324,Louise Ellman,1,female,labourco-operative,68,16,0,0,0,,,Jewish
+353d695a-966f-49b1-b3af-ffc6ce627f5d,Stephen Hammond,1,male,conservative,51,8,1,0,0,,,Out of scope
+e6f82796-6e18-4e5c-a29b-d3bf97661066,Norman Baker,1,male,liberal-democrat,56,16,1,0,0,,,Out of scope
+9e0b1dd0-623e-45c7-b0ec-2b5d9b6c1918,Simon Hughes,1,male,liberal-democrat,62,30,1,0,0,,,Out of scope
+b334c087-9c78-4a07-8334-afca3ce94e21,Katy Clark,1,female,labour,46,8,0,0,0,,,Out of scope
+c549a94b-4738-4a35-80c1-31943094e803,Sharon Hodgson,1,female,labour,47,8,0,1,0,,,Out of scope
+3c805a64-2049-41fa-b454-7aa60d7bd4f3,Ann Coffey,1,female,labour,67,21,0,0,0,,,Out of scope
+7707fb8f-bf74-48b7-b73b-55fc551e92c1,George Galloway,1,male,respect,59,26,0,0,0,,,Out of scope
+af2dfa5a-92c4-40ab-957a-e35e3c0e098e,Cathy Jamieson,1,female,labour,57,3,0,1,0,,,Out of scope
+d265eae6-2641-4c35-86b4-525557e91ea0,Khalid Mahmood,1,male,labour,52,12,0,0,1,Pakistani,Pakistani,Out of scope
+b95edc33-fa1e-4b51-aae1-2c41e961e83a,Helen Jones,1,female,labour,59,16,0,1,0,,,Roman Catholic
+e7fd6740-648e-4acb-be86-8c9214d35f70,Steve McCabe,1,male,labour,58,16,0,1,0,,,Out of scope
+9b228ac6-2405-472f-9351-960be536067b,Jamie Reed,1,male,labour,40,8,0,1,0,,,Out of scope
+b9a5891f-6bf2-4410-b37c-f2151bb26ac3,Sarah Teather,1,female,liberal-democrat,39,10,0,0,0,,,Out of scope
+7593c51f-f12c-4b65-8299-79c1df68a2ee,SiÃ¢n C. Jame,0,female,labour,54,8,0,0,0,,,Out of scope
+b7258066-47bf-428e-800b-ae9e15c8c27e,Chris Leslie,1,male,labourco-operative,41,16,0,1,0,,,Out of scope
+fdb7b487-0685-480c-8340-3a193ddc4d76,Teressa Pearce,1,female,labour,59,3,0,0,0,,,Out of scope
+481160b6-994d-4fe8-a312-b28c7ed7e21d,Mark Hendrick,1,male,labourco-operative,55,13,0,0,1,White and Black African,White and Black African,Out of scope
+9490e688-6578-4a6b-9ecb-949da9611df7,Angela Smith,1,female,labour,52,8,0,1,0,,,Out of scope
+f32fbc93-98a4-44a5-82de-aea07a8094cb,Nick Smith,1,male,labour,54,3,0,0,0,,,Out of scope
+d2dea901-f7ab-419e-945f-9a7544678efe,Jane Ellison,1,female,conservative,49,3,1,0,0,,,Out of scope
+84773572-d4b2-4d05-ac22-54de551064d6,Jenny Willott,1,female,liberal-democrat,39,8,1,0,0,,,Out of scope
+0592cc7e-bfd0-4a8f-9d88-dcbfecb146d0,Alan Reid,1,male,liberal-democrat,59,12,0,0,0,,,Out of scope
+d158aff6-dca6-4c76-a012-bb4a830e2049,Mike Gapes,1,male,labourco-operative,61,21,0,0,0,,,Out of scope
+5dd9bd3b-b4a0-44ea-af9d-03aeef7e4296,Tom Blenkinsop,1,male,labour,33,3,0,1,0,,,Roman Catholic
+89864bbf-b491-41c3-b1fa-bd8b9d0e6bc9,Tom Clarke,1,male,labour,73,31,0,0,0,,,Out of scope
+8b3813ba-179c-4eba-8b22-3573ec11050f,Anas Sarwar,1,male,labour,30,3,0,0,1,Anglo-Somali,White and Black African,Out of scope
+2ba3d9c5-ad63-4aba-b61d-e00a28e9e7d6,Elfyn Llwyd,1,male,plaid-cymru,62,21,0,1,0,,,Out of scope
+4dfd342b-efe1-4d45-8a13-7a81513f877f,Nick Harvey,1,male,liberal-democrat,52,21,0,0,0,,,Out of scope
+15e8ec17-f95e-4576-97ab-501568a9a336,Eilidh Whiteford,1,female,scottish-national-party,44,3,0,1,0,,,Out of scope
+898c9849-e98e-40a1-82ae-a5a6665c1b5d,Lyn Brown,1,female,labour,53,8,0,1,0,,,Out of scope
+4ffadd2a-9b83-4f9d-b4b3-f0497c611e85,Dennis Skinner,1,male,labour,81,43,0,0,0,,,Out of scope
+8397fe68-e3f8-4f6a-bf96-2fd74859b9b7,John Cryer,1,male,labour,49,16,0,0,0,,,Out of scope
+b303094e-e6c1-45e4-962e-464ae22a555c,Clive Efford,1,male,labour,55,16,0,1,0,,,Out of scope
+9505894c-676b-4114-bec2-2f5f92d0bfc5,Jon Cruddas,1,male,labour,51,12,0,1,0,,,Roman Catholic
+1c2760f1-0d8f-4357-bb6c-4e617d35ec08,Maria Eagle,1,female,labour,52,16,0,1,0,,,Out of scope
+5e622c66-aaf5-44dd-83f6-4a0fa7b1d4c5,Nick Hurd,1,male,conservative,51,8,1,0,0,,,Out of scope
+32a649b0-4e0d-441b-8e46-cbb9e78084d1,Gavin Shuker,1,male,labourco-operative,32,3,0,1,0,,,Out of scope
+143ea45d-404b-4248-b327-1f052c801536,Fiona Bruce,1,female,conservative,56,3,0,0,0,,,Out of scope
+4ae8682a-726d-4641-b579-4ed1972b9e30,Angus Brendan MacNeil,1,male,scottish-national-party,43,8,0,1,0,,,Roman Catholic
+fef022ce-f2d6-4830-a4da-d059454b0451,Virendra Sharma,1,male,labour,66,6,0,0,1,Indian,Indian,Out of scope
+3ddab305-0ca3-41da-baa8-edc5beebaa8b,Grahame M. Morris,1,male,labour,52,3,0,0,0,,,Out of scope
+6374ed2e-e07f-447c-ba00-fc139996a5ac,Margaret Curran,1,female,labour,55,3,0,1,0,,,Out of scope
+d8a5c6af-1f95-4950-b03c-33069604ef23,Sadiq Khan,1,male,labour,43,8,0,1,1,Pakistani,Pakistani,Out of scope
+221f0507-8cde-4fe3-9136-c04a73975a9c,Nick de Bois,1,male,conservative,54,3,0,0,0,,,Out of scope
+f9b9309e-bacb-43e5-8a37-eddd62230f5d,Ann Clwyd,1,female,labour,76,29,0,0,0,,,Out of scope
+b79c5be4-8a0c-4827-bf12-7dd644a43439,David Crausby,1,male,labour,67,16,0,0,0,,,Roman Catholic
+1f79103c-ec03-4265-957d-73d7a3307753,Malcolm Rifkind,1,male,conservative,67,39,0,0,0,,,Jewish
+b1b319d0-6482-45dd-83cc-d1cab5138f2a,Andrew Miller,1,male,labour,64,21,0,0,0,,,Out of scope
+7fd98d23-6537-447c-b3e2-a369d424d5f8,Frank Field,1,male,labour,71,34,0,0,0,,,Out of scope
+d241e2a1-ada4-4749-a5eb-5b20bac41651,David Burrowes,1,male,conservative,44,8,0,0,0,,,Out of scope
+f70ad22a-c234-40f4-9ac5-46318ff081ee,Karl Turner,1,male,labour,42,3,0,1,0,,,Out of scope
+7f40e896-bd3b-441e-8fd5-4f61d7224c31,Tom Watson,1,male,labour,47,12,0,0,0,,,Out of scope
+cf326098-8f9e-4adf-bf7b-088b73732860,Andrew Love,1,male,labour,64,16,0,0,0,,,Out of scope
+f2b39816-81f2-4d17-8c58-56ec25344c90,Pamela Nash,1,female,labour,29,3,0,0,0,,,Out of scope

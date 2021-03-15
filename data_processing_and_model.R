@@ -245,9 +245,17 @@ dat$same_reduced_ethnicity[dat$reduced_ethnicity == dat$mp_reduced_ethnicity] <-
 dat$same_reduced_ethnicity_no_mixed <- 0
 dat$same_reduced_ethnicity_no_mixed[dat$reduced_ethnicity_no_mixed == dat$mp_reduced_ethnicity_no_mixed] <- 1
 
-
 dat$mp_bame_voter_not <- 0
 dat$mp_bame_voter_not[dat$bame == 0 & dat$mp_bame == 1] <- 1
+
+dat$same_minority_religion <- 0
+dat$same_minority_religion[dat$profile_religion_denom == dat$minority_religion_white] <- 1
+
+dat$both_catholic <- 0
+dat$both_catholic[dat$profile_religion_denom == "Roman Catholic" & dat$minority_religion_white == "Roman Catholic"] <- 1
+
+dat$both_jewish <- 0
+dat$both_jewish[dat$profile_religion_denom == "Jewish" & dat$minority_religion_white == "Jewish"] <- 1
 
 dat$both_bame <- 0
 dat$both_bame[dat$bame == 1 & dat$mp_bame == 1] <- 1

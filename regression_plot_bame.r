@@ -128,7 +128,8 @@ g <- plot_summs(qlm, scale = TRUE, colors = colors, groups = groups, coefs = coe
   xlab("Estimate and 99% confidence range") +
   scale_x_continuous(label = addX, breaks = 0:10) + 
   mysoc_theme() +
-  labs(caption = "Data sources: BES 2014, TheyWorkForYou, EveryPolitican.org")
+  labs(caption = "Data sources: BES 2014, TheyWorkForYou, EveryPolitican.org") +
+  theme(axis.text.x = element_text(size=18))
 save_and_show(g, height = 10, "outputs//regression_plot_bame_only.png")
 
 tab_model(qlm, show.r2= FALSE, file="outputs//regression_table_bame_only.html", use.viewer=TRUE )
